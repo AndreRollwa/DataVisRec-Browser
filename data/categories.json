@@ -1,0 +1,333 @@
+[
+ 	{
+ 		"type": "category",
+ 		"title": "analytic-tasks",
+ 		"description": "Analytic Tasks",
+ 		"childrenDescription": "Analytic Task: ",
+ 		
+ 		"entries": [
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "polarity-analysis",
+ 			   "description": "Polarity Analysis / Subjectivity Detection",
+ 			   "content": "<span class=\"glyphicon glyphicon-thumbs-up\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "opinion-mining",
+ 			   "description": "Opinion Mining / Aspect-based Sentiment Analysis",
+ 			   "content": "<span class=\"glyphicon glyphicon-tasks\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "emotion-analysis",
+ 			   "description": "Emotion/Affect Analysis",
+ 			   "content": "<span class=\"glyphicon glyphicon-heart\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "stance-analysis",
+ 			   "description": "Stance Analysis",
+ 			   "content": "<span class=\"glyphicon glyphicon-ok-circle\"></span>"
+ 		   }
+ 		]
+ 	},
+ 	
+	{
+ 		"type": "category",
+ 		"title": "visualization-tasks",
+ 		"description": "Visualization Tasks",
+ 		"childrenDescription": "Visualization Task: ",
+ 		
+ 		"entries": [
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "roi",
+ 			   "description": "Region of Interest",
+ 			   "content": "<span class=\"glyphicon glyphicon-star\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "classification",
+ 			   "description": "Clustering/Classification/Categorization",
+ 			   "content": "<span class=\"glyphicon glyphicon-tags\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "comparison",
+ 			   "description": "Comparison",
+ 			   "content": "<span class=\"glyphicon glyphicon-sort-by-attributes\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "overview",
+ 			   "description": "Overview",
+ 			   "content": "<span class=\"glyphicon glyphicon-eye-open\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "monitoring",
+ 			   "description": "Monitoring",
+ 			   "content": "<span class=\"content-entry-icon\"><img src=\"images/monitoring.svg\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "navigation",
+ 			   "description": "Navigation/Exploration",
+ 			   "content": "<span class=\"glyphicon glyphicon-move\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "uncertainty",
+ 			   "description": "Uncertainty Tackling",
+ 			   "content": "<span class=\"glyphicon glyphicon-question-sign\"></span>"
+ 		   }
+ 		]
+ 	},
+ 	
+ 	{
+ 		"type": "category",
+ 		"title": "data",
+ 		"description": "Data Aspects",
+ 		
+ 		"entries": [
+           {
+ 			   "type": "category",
+ 			   "title": "data-source",
+ 			   "description": "Data Source",
+ 			   "childrenDescription": "Data Source: ",
+ 			   
+ 			   "entries": [
+					   {
+			 			   "type": "category-entry",
+			 			   "title": "document",
+			 			   "description": "Document",
+			 			   "content": "<span class=\"glyphicon glyphicon-file\"></span>"
+			 		   },
+			 		   
+			 		   {
+			 			   "type": "category-entry",
+			 			   "title": "corpora",
+			 			   "description": "Corpora",
+			 			   "content": "<span class=\"glyphicon glyphicon-folder-open\"></span>"
+			 		   },
+			 		   
+			 		   {
+			 			   "type": "category-entry",
+			 			   "title": "streams",
+			 			   "description": "Streams",
+			 			   "content": "<span class=\"glyphicon glyphicon-cloud-download\"></span>"
+			 		   }
+ 			   ]
+ 		   },         
+ 		   
+ 		   {
+ 			   "type": "category",
+ 			   "title": "data-properties",
+ 			   "description": "Data Properties",
+ 			   "childrenDescription": "Data Property: ",
+ 			   
+ 			   "entries": [
+ 			         {
+						   "type": "category-entry",
+						   "title": "geospatial",
+						   "description": "Geospatial",
+						   "content": "<span class=\"content-entry-icon\"><img src=\"images/geospatial.svg\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "time-series",
+						   "description": "Time-series",
+						   "content": "<span class=\"glyphicon glyphicon-time\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "networks",
+						   "description": "Networks",
+						   "content": "<span class=\"content-entry-icon\"><img src=\"images/networks.svg\"></span>"
+					 } 
+ 			   ]
+ 		   }
+ 		]
+ 	},
+ 	
+ 	{
+ 		"type": "category",
+ 		"title": "domain",
+ 		"description": "Domain",
+ 		"childrenDescription": "Domain: ",
+ 		
+ 		"entries": [
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "social-media",
+ 			   "description": "Online Social Media",
+ 			   "content": "<span class=\"glyphicon glyphicon-comment\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "communication",
+ 			   "description": "Communication",
+ 			   "content": "<span class=\"glyphicon glyphicon-envelope\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "patents",
+ 			   "description": "Patents",
+ 			   "content": "<span class=\"glyphicon glyphicon-briefcase\"></span>",
+ 			   "disabled": true
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "reviews",
+ 			   "description": "Reviews / (Medical) Reports",
+ 			   "content": "<span class=\"content-entry-icon\"><img src=\"images/reviews.svg\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "literature",
+ 			   "description": "Literature / Poems",
+ 			   "content": "<span class=\"glyphicon glyphicon-book\"></span>"
+ 		   },
+ 		   
+ 		   {
+ 			   "type": "category-entry",
+ 			   "title": "papers",
+ 			   "description": "Scientific Articles / Papers",
+ 			   "content": "<span class=\"glyphicon glyphicon-stats\"></span>"
+ 		   },
+		   
+		   {
+			   "type": "category-entry",
+			   "title": "editorial-media",
+			   "description": "Editorial Media",
+			   "content": "<span class=\"glyphicon glyphicon-registration-mark\"></span>"
+		   }
+ 		]
+ 	},
+ 	
+ 	{
+ 		"type": "category",
+ 		"title": "visualization",
+ 		"description": "Visualization Aspects",
+ 		
+ 		"entries": [
+ 		 {
+ 			   "type": "category",
+ 			   "title": "variable",
+ 			   "description": "Visual Variable",
+ 			   "childrenDescription": "Visual Variable Encoding Sentiment: ",
+ 			   
+ 			   "entries": [
+					 {
+						   "type": "category-entry",
+						   "title": "color",
+						   "description": "Color",
+						   "content": "<span class=\"glyphicon glyphicon-adjust\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "position",
+						   "description": "Position/Orientation",
+						   "content": "<span class=\"glyphicon glyphicon-sort\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "size",
+						   "description": "Size",
+						   "content": "<span class=\"glyphicon glyphicon-text-size\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "shape",
+						   "description": "Shape",
+						   "content": "<span class=\"glyphicon glyphicon-certificate\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "texture",
+						   "description": "Texture/Pattern",
+						   "content": "<span class=\"glyphicon glyphicon-barcode\"></span>"
+					 } 
+ 			   ]
+ 		   },
+ 		   
+ 		  {
+ 			   "type": "category",
+ 			   "title": "representation",
+ 			   "description": "Visual Representation",
+ 			   "childrenDescription": "Visual Representation Encoding Sentiment: ",
+ 			   
+ 			   "entries": [
+					 {
+						   "type": "category-entry",
+						   "title": "line-plot",
+						   "description": "Line Plot / River",
+						   "content": "<span class=\"content-entry-icon\"><img src=\"images/line-plot.svg\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "pixel-area",
+						   "description": "Pixel/Area/Matrix",
+						   "content": "<span class=\"glyphicon glyphicon-th\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "node-link",
+						   "description": "Node-Link",
+						   "content": "<span class=\"content-entry-icon\"><img src=\"images/node-link.svg\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "clouds",
+						   "description": "Clouds/Galaxies",
+						   "content": "<span class=\"glyphicon glyphicon-cloud\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "maps",
+						   "description": "Maps",
+						   "content": "<span class=\"glyphicon glyphicon-globe\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "text",
+						   "description": "Text",
+						   "content": "<span class=\"glyphicon glyphicon-align-center\"></span>"
+					 },
+					 
+					 {
+						   "type": "category-entry",
+						   "title": "glyph",
+						   "description": "Glyph/Icon",
+						   "content": "<span class=\"glyphicon glyphicon-leaf\"></span>"
+					 }  
+ 			   ]
+ 		   }
+ 		]
+ 	}
+]

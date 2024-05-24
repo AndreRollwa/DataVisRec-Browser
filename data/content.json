@@ -1,0 +1,1701 @@
+[
+	{
+		"id": "Wang2013_1",
+		"title": "Sentiment Helix with Attribute Astrolabe",
+		"year": 2013,
+		"authors": "Changbo Wang et al.",
+		"reference": "Changbo Wang, Zhao Xiao, Yuhua Liu, Yanru Xu, Aoying Zhou, and Kang Zhang. <i>SentiView: Sentiment Analysis and Visualization for Internet Popular Topics</i>. IEEE Transactions on Human-Machine Systems, vol. 43, issue 6, pp.620-630, 2013.",
+		"url": "https://doi.org/10.1109/THMS.2013.2285047",
+		"categories": ["polarity-analysis", "overview", "time-series", "corpora", "social-media", "color", "position", "line-plot", "clouds"]
+	},
+	
+	{
+		"id": "Wang2013_2",
+		"title": "Sentiment Relationship Map",
+		"year": 2013,
+		"authors": "Changbo Wang et al.",
+		"reference": "Changbo Wang, Zhao Xiao, Yuhua Liu, Yanru Xu, Aoying Zhou, and Kang Zhang. <i>SentiView: Sentiment Analysis and Visualization for Internet Popular Topics</i>. IEEE Transactions on Human-Machine Systems, vol. 43, issue 6, pp.620-630, 2013.",
+		"url": "https://doi.org/10.1109/THMS.2013.2285047",
+		"categories": ["polarity-analysis", "overview", "comparison", "navigation", "networks", "corpora", "social-media", "color", "position", "size", "node-link"]
+	},
+
+	{
+		"id": "Zhang2013_1",
+		"title": "Electron Cloud Model",
+		"year": 2013,
+		"authors": "Chenghai Zhang, Yuhua Liu, and Changbo Wang",
+		"reference": "Chenghai Zhang, Yuhua Liu, and Changbo Wang. <i>Time-space Varying Visual Analysis of Micro-blog Sentiment</i>. Proceedings of the 6th International Symposium on Visual Information Communication and Interaction (VINCI), pp. 64-71, 2013.",
+		"url": "https://doi.org/10.1145/2493102.2493110",
+		"categories": ["polarity-analysis", "overview", "corpora", "time-series", "social-media", "color", "position", "texture", "line-plot", "clouds"]
+	},
+	
+	{
+		"id": "Zhang2013_2",
+		"title": "Geographical Layout of Public Sentiment",
+		"year": 2013,
+		"authors": "Chenghai Zhang, Yuhua Liu, and Changbo Wang",
+		"reference": "Chenghai Zhang, Yuhua Liu, and Changbo Wang. <i>Time-space Varying Visual Analysis of Micro-blog Sentiment</i>. Proceedings of the 6th International Symposium on Visual Information Communication and Interaction (VINCI), pp. 64-71, 2013.",
+		"url": "https://doi.org/10.1145/2493102.2493110",
+		"categories": ["polarity-analysis", "overview", "corpora", "geospatial", "networks", "social-media", "color", "node-link", "maps"]
+	},
+
+	{
+		"id": "Cui2012",
+		"title": "TextWheel",
+		"year": 2012,
+		"authors": "Weiwei Cui et al.",
+		"reference": "Weiwei Cui, Huamin Qu, Hong Zhou, Wenbin Zhang, and Steve Skiena. <i>Watch the Story Unfold with TextWheel: Visualization of Large-Scale News Streams</i>. ACM Transactions on Intelligent Systems and Technology, vol. 3, issue 2, pp. 20:1-20:17, 2012.",
+		"url": "https://doi.org/10.1145/2089094.2089096",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "monitoring", "roi", "comparison", "navigation", "corpora", "streams", "time-series", "networks", "editorial-media", "color", "position", "node-link", "line-plot", "glyph"]
+	},
+
+	{
+		"id": "Goerg2013",
+		"title": "Jigsaw",
+		"year": 2013,
+		"authors": "Carsten Görg et al.",
+		"reference": "Carsten Görg, Zhicheng Liu, Jaeyeon Kihm, Jaegul Choo, Haesun Park, and John Stasko. <i>Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw</i>. IEEE Transactions on Visualization and Computer Graphics, 19(10):1646-1663, 2013.",
+		"url": "https://doi.org/10.1109/TVCG.2012.324",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "overview", "navigation", "comparison", "corpora", "reviews", "color", "position", "pixel-area", "text", "clouds"]
+	},
+
+	{
+		"id": "Chen2006",
+		"title": "Conflicting Opinions Visualization",
+		"year": 2006,
+		"authors": "Chaomei Chen et al.",
+		"reference": "Chaomei Chen, Fidelia Ibekwe-SanJuan, Eric SanJuan, and Chris Weaver. <i>Visual Analysis of Conflicting Opinions</i>. Proceedings of the IEEE Symposium on Visual Analytics Science and Technology (VAST), pages 59-66, 2006.",
+		"url": "https://doi.org/10.1109/VAST.2006.261431",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "classification", "corpora", "time-series", "networks", "reviews", "color", "position", "line-plot", "node-link"]
+	},
+
+	{
+		"id": "Brew2011",
+		"title": "SentireCrowds",
+		"year": 2011,
+		"authors": "Anthony Brew et al.",
+		"reference": "Anthony Brew, Derek Greene, Daniel Archambault, and Pádraig Cunningham. <i>Deriving Insights from National Happiness Indices</i>. Proceedings of IEEE 11th International Conference on Data Mining Workshops (ICDMW), pp. 53-60, 2011.",
+		"url": "https://doi.org/10.1109/ICDMW.2011.61",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "time-series", "social-media", "color", "position", "line-plot", "pixel-area"]
+	},
+
+	{
+		"id": "Wanner2012",
+		"title": "Topic Tracker",
+		"year": 2012,
+		"authors": "Franz Wanner, Andreas Weiler, and Tobias Schreck",
+		"reference": "Franz Wanner, Andreas Weiler, and Tobias Schreck. <i>Topic Tracker: Shape-based Visualization for Trend and Sentiment Tracking in Twitter</i>. Proceedings of the IEEE Workshop on Interactive Visual Text Analytics (TextVis), 2012.",
+		"url": "http://research.microsoft.com/en-us/um/people/shliu/tasmc/paper/Topic-Tracker.pdf",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "navigation", "comparison", "corpora", "time-series", "social-media", "color", "glyph"]
+	},
+
+	{
+		"id": "Gregory2006",
+		"title": "Sentiment Rose Plots",
+		"year": 2006,
+		"authors": "Michelle L. Gregory et al.",
+		"reference": "Michelle L. Gregory, Nancy Chinchor, Paul Whitney, Richard Carter, Elizabeth Hetzler, and Alan Turner. <i>User-directed sentiment analysis: visualizing the affective content of documents</i>. Proceedings of the Workshop on Sentiment and Subjectivity in Text (SST), pp. 23-30, 2006.",
+		"url": "http://dl.acm.org/citation.cfm?id=1654645",
+		"categories": ["polarity-analysis", "emotion-analysis", "opinion-mining", "overview", "classification", "comparison", "document", "corpora", "reviews", "color", "size", "glyph"]
+	},
+	
+	{
+		"id": "Abbasi2007",
+		"title": "Ink Blots",
+		"year": 2007,
+		"authors": "Ahmed Abbasi and Hsinchun Chen",
+		"reference": "Ahmed Abbasi and Hsinchun Chen. <i>Categorization and analysis of text in computer mediated communication archives using visualization</i>. Proceedings of the 7th ACM/IEEE-CS joint conference on Digital libraries (JCDL '07), pp. 11-18, 2007.",
+		"url": "https://doi.org/10.1145/1255175.1255178",
+		"categories": ["polarity-analysis", "emotion-analysis", "overview", "classification", "comparison", "document", "corpora", "social-media", "communication", "color", "size", "text", "pixel-area"]
+	},
+
+	{
+		"id": "Makki2014",
+		"title": "Context-Specific Sentiment Lexicon Expansion",
+		"year": 2014,
+		"authors": "Raheleh Makki, Stephen Brooks, and Evangelos E. Milios",
+		"reference": "Raheleh Makki, Stephen Brooks, and Evangelos E. Milios. <i>Context-Specific Sentiment Lexicon Expansion via Minimal User Interaction</i>. Proceedings of the International Conference on Information Visualization Theory and Applications (IVAPP), pp. 178-186, 2014.",
+		"url": "https://doi.org/10.5220/0004745301780186",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "uncertainty", "corpora", "reviews", "color", "position", "node-link", "clouds"]
+	},
+
+	{
+		"id": "Hoque2014",
+		"title": "ConVis",
+		"year": 2014,
+		"authors": "Enamul Hoque and Giuseppe Carenini",
+		"reference": "Enamul Hoque and Giuseppe Carenini. <i>ConVis: A Visual Text Analytic System for Exploring Blog Conversations</i>. Computer Graphics Forum, vol. 33, issue 3, pp. 221-230, 2014.",
+		"url": "https://doi.org/10.1111/cgf.12378",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "corpora", "networks", "social-media", "color", "size", "position", "node-link", "pixel-area"]
+	},
+	
+	{
+		"id": "Weiler2015",
+		"title": "Stor-e-Motion",
+		"year": 2015,
+		"authors": "Andreas Weiler et al.",
+		"reference": "Andreas Weiler, Michael Grossniklaus, and Marc H. Scholl. <i>The Stor-e-Motion Visualization for Topic Evolution Tracking in Text Data Streams</i>. Proceedings of the International Conference on Information Visualization Theory and Applications (IVAPP), pp. 29-39, 2015.",
+		"url": "https://doi.org/10.5220/0005292900290039",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "monitoring", "document", "corpora", "streams", "time-series", "geospatial", "social-media", "editorial-media", "literature", "color", "size", "line-plot"]
+	},
+
+	{
+		"id": "Diakopoulos2014",
+		"title": "Lingoscope",
+		"year": 2014,
+		"authors": "Nicholas Diakopoulos et al.",
+		"reference": "Nicholas Diakopoulos, Amy X. Zhang, Dag Elgesem, and Andrew Salway. <i>Identifying and Analyzing Moral Evaluation Frames in Climate Change Blog Discourse</i>. Proceedings of the International Conference on Weblogs and Social Media (ICWSM), pp. 583-586, 2014.",
+		"url": "http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8064",
+		"categories": ["polarity-analysis", "opinion-mining", "emotion-analysis", "stance-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "position", "size", "line-plot", "pixel-area", "text"]
+	},
+
+	{
+		"id": "Wanner2009",
+		"title": "RSS News Feeds Sentiment Visualization",
+		"year": 2009,
+		"authors": "Franz Wanner et al.",
+		"reference": "Franz Wanner, Christian Rohrdantz, Florian Mansmann, Daniela Oelke, and Daniel A. Keim. <i>Visual Sentiment Analysis of RSS News Feeds Featuring the US Presidential Election in 2008</i>. Proceedings of the IUI Workshop on Visual Interfaces to the Social and the Semantic Web (VISSW), 2009.",
+		"url": "http://ceur-ws.org/Vol-443/",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "corpora", "time-series", "editorial-media", "position", "glyph"]
+	},
+
+	{
+		"id": "Rohrdantz2012",
+		"title": "Time Density Plots",
+		"year": 2012,
+		"authors": "Christian Rohrdantz et al.",
+		"reference": "Christian Rohrdantz, Ming C. Hao, Umeshwar Dayal, Lars-Erik Haug, and Daniel A. Keim. <i>Feature-Based Visual Sentiment Analysis of Text Document Streams</i>. ACM Transactions on Intelligent Systems and Technology (TIST), vol. 3, issue 2, pp. 26:1-26:25, 2012.",
+		"url": "https://doi.org/10.1145/2089094.2089102",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "roi", "comparison", "uncertainty", "streams", "time-series", "editorial-media", "reviews", "color", "glyph", "line-plot"]
+	},
+
+	{
+		"id": "Krstajic2012",
+		"title": "Real-time Twitter Event Detection",
+		"year": 2012,
+		"authors": "Miloš Krstajić et al.",
+		"reference": "Miloš Krstajić, Christian Rohrdantz, Michael Hund, and Andreas Weiler. <i>Getting There First: Real-Time Detection of Real-World Incidents on Twitter</i>. Proceedings of IEEE Workshop on Interactive Visual Text Analytics, 2012.",
+		"url": "http://bib.dbvis.de/publications/details/451",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "monitoring", "streams", "time-series", "social-media", "color", "glyph"]
+	},
+
+	{
+		"id": "Hao2013_1",
+		"title": "Pixel Sentiment Geo Map",
+		"year": 2013,
+		"authors": "Ming C. Hao et al.",
+		"reference": "Ming C. Hao, Christian Rohrdantz, Halldor Janetzko, Daniel A. Keim, Umeshwar Dayal, Lars-Erik Haug, Meichun Hsu, and Florian Stoffel. <i>Visual sentiment analysis of customer feedback streams using geo-temporal term associations</i>. Information Visualization, vol. 12, issue 3-4, pp. 273-290, 2013.",
+		"url": "https://doi.org/10.1177/1473871613481691",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "streams", "geospatial", "reviews", "social-media", "color", "pixel-area", "maps", "clouds"]
+	},
+	
+	{
+		"id": "Hao2013_2",
+		"title": "Key Term Geo Map",
+		"year": 2013,
+		"authors": "Ming C. Hao et al.",
+		"reference": "Ming C. Hao, Christian Rohrdantz, Halldor Janetzko, Daniel A. Keim, Umeshwar Dayal, Lars-Erik Haug, Meichun Hsu, and Florian Stoffel. <i>Visual sentiment analysis of customer feedback streams using geo-temporal term associations</i>. Information Visualization, vol. 12, issue 3-4, pp. 273-290, 2013.",
+		"url": "https://doi.org/10.1177/1473871613481691",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "corpora", "streams", "geospatial", "reviews", "social-media", "color", "maps", "clouds"]
+	},
+	
+	{
+		"id": "Hao2013_3",
+		"title": "Self-organizing Term Association Map",
+		"year": 2013,
+		"authors": "Ming C. Hao et al.",
+		"reference": "Ming C. Hao, Christian Rohrdantz, Halldor Janetzko, Daniel A. Keim, Umeshwar Dayal, Lars-Erik Haug, Meichun Hsu, and Florian Stoffel. <i>Visual sentiment analysis of customer feedback streams using geo-temporal term associations</i>. Information Visualization, vol. 12, issue 3-4, pp. 273-290, 2013.",
+		"url": "https://doi.org/10.1177/1473871613481691",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "corpora", "streams", "reviews", "social-media", "color", "maps", "text"]
+	},
+	
+	{
+		"id": "Hao2013_4",
+		"title": "Pixel Cell-based Sentiment Calendar",
+		"year": 2013,
+		"authors": "Ming C. Hao et al.",
+		"reference": "Ming C. Hao, Christian Rohrdantz, Halldor Janetzko, Daniel A. Keim, Umeshwar Dayal, Lars-Erik Haug, Meichun Hsu, and Florian Stoffel. <i>Visual sentiment analysis of customer feedback streams using geo-temporal term associations</i>. Information Visualization, vol. 12, issue 3-4, pp. 273-290, 2013.",
+		"url": "https://doi.org/10.1177/1473871613481691",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "corpora", "streams", "time-series", "geospatial", "reviews", "social-media", "color", "pixel-area"]
+	},
+	
+	{
+		"id": "Wu2010",
+		"title": "OpinionSeer",
+		"year": 2010,
+		"authors": "Yingcai Wu et al.",
+		"reference": "Yingcai Wu, Furu Wei, Shixia Liu, Norman Au, Weiwei Cui, Hong Zhou, and Huamin Qu. <i>OpinionSeer: Interactive Visualization of Hotel Customer Feedback</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 16, issue 6, pp. 1109-1118, 2010.",
+		"url": "https://doi.org/10.1109/TVCG.2010.183",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "uncertainty", "corpora", "time-series", "geospatial", "reviews", "color", "position", "pixel-area", "clouds"]
+	},
+
+	{
+		"id": "Oelke2009",
+		"title": "Opinion Cluster Thumbnails",
+		"year": 2009,
+		"authors": "Daniela Oelke et al.",
+		"reference": "Daniela Oelke, Ming Hao, Christian Rohrdantz, Daniel A. Keim, Umeshwar Dayal, Lars-Erik Haug, and Halldór Janetzko. <i>Visual opinion analysis of customer feedback data</i>. Proceedings of IEEE Symposium on Visual Analytics Science and Technology (VAST), pp. 187-194, 2009.",
+		"url": "https://doi.org/10.1109/VAST.2009.5333919",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "overview", "comparison", "corpora", "reviews", "color", "size", "position", "pixel-area", "maps", "text"]
+	},
+
+	{
+		"id": "Duan2012",
+		"title": "VISA",
+		"year": 2012,
+		"authors": "Dongxu Duan et al.",
+		"reference": "Dongxu Duan, Weihong Qian, Shimei Pan, Lei Shi, and Chuang Lin. <i>VISA: A Visual Sentiment Analysis System</i>. Proceedings of the 5th International Symposium on Visual Information Communication and Interaction (VINCI), pp. 22-28, 2012.",
+		"url": "https://doi.org/10.1145/2397696.2397700",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "corpora", "time-series", "color", "size", "line-plot", "text", "clouds"]
+	},
+
+	{
+		"id": "Gali2012",
+		"title": "Money Trees",
+		"year": 2012,
+		"authors": "Guia Gali et al.",
+		"reference": "Guia Gali, Symon Oliver, Fanny Chevalier, and Sara Diamond. <i>Visualizing Sentiments in Business-customer Relations with Metaphors</i>. CHI '12 Extended Abstracts on Human Factors in Computing Systems, pp. 1493-1498, 2012.",
+		"url": "https://doi.org/10.1145/2212776.2223661",
+		"categories": ["polarity-analysis", "opinion-mining", "monitoring", "overview", "classification", "comparison", "corpora", "time-series", "reviews", "color", "glyph"]
+	},
+	
+	{
+		"id": "Gali2012_2",
+		"title": "Emotional Tapestry",
+		"year": 2012,
+		"authors": "Guia Gali et al.",
+		"reference": "Guia Gali, Symon Oliver, Fanny Chevalier, and Sara Diamond. <i>Visualizing Sentiments in Business-customer Relations with Metaphors</i>. CHI '12 Extended Abstracts on Human Factors in Computing Systems, pp. 1493-1498, 2012.",
+		"url": "https://doi.org/10.1145/2212776.2223661",
+		"categories": ["polarity-analysis", "opinion-mining", "monitoring", "overview", "classification", "comparison", "corpora", "time-series", "reviews", "color", "texture", "glyph", "pixel-area"]
+	},
+	
+	{
+		"id": "Gali2012_3",
+		"title": "SentiWheel",
+		"year": 2012,
+		"authors": "Guia Gali et al.",
+		"reference": "Guia Gali, Symon Oliver, Fanny Chevalier, and Sara Diamond. <i>Visualizing Sentiments in Business-customer Relations with Metaphors</i>. CHI '12 Extended Abstracts on Human Factors in Computing Systems, pp. 1493-1498, 2012.",
+		"url": "https://doi.org/10.1145/2212776.2223661",
+		"categories": ["polarity-analysis", "opinion-mining", "monitoring", "overview", "classification", "comparison", "corpora", "time-series", "reviews", "color", "size", "pixel-area", "node-link"]
+	},
+	
+	{
+		"id": "Almutairi2013",
+		"title": "Attitude Radial Plots",
+		"year": 2013,
+		"authors": "Bandar Alhumaidi A. Almutairi",
+		"reference": "Bandar Alhumaidi A. Almutairi. <i>Visualizing patterns of appraisal in texts and corpora</i>. Text & Talk, vol. 33, issue 4-5, pp. 691–723, 2013.",
+		"url": "https://doi.org/10.1515/text-2013-0031",
+		"categories": ["polarity-analysis", "stance-analysis", "overview", "comparison", "document", "editorial-media", "color", "position", "size", "shape", "pixel-area", "maps"]
+	},
+
+	{
+		"id": "Zhao2014",
+		"title": "FluxFlow",
+		"year": 2014,
+		"authors": "Jian Zhao et al.",
+		"reference": "Jian Zhao, Nan Cao, Zhen Wen, Yale Song, Yu-Ru Lin, and Christopher Collins. <i>#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 20, issue 12, pp. 1773-1782, 2014.",
+		"url": "https://doi.org/10.1109/TVCG.2014.2346922",
+		"categories": ["polarity-analysis", "opinion-mining", "emotion-analysis", "overview", "monitoring", "classification", "comparison", "navigation", "roi", "streams", "time-series", "social-media", "color", "glyph"]
+	},
+
+	{
+		"id": "Lu2014",
+		"title": "Tweet Bubble Plot",
+		"year": 2014,
+		"authors": "Yafeng Lu et al.",
+		"reference": "Yafeng Lu, Robert Krüger, Dennis Thom, Feng Wang, Steffen Koch, Thomas Ertl, and Ross Maciejewski. <i>Integrating Predictive Analytics and Social Media</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), pp. 193-202, 2014.",
+		"url": "https://doi.org/10.1109/VAST.2014.7042495",
+		"categories": ["polarity-analysis", "overview", "comparison", "corpora", "time-series", "social-media", "color", "clouds", "glyph"]
+	},
+
+	{
+		"id": "Wu2014",
+		"title": "OpinionFlow",
+		"year": 2014,
+		"authors": "Yingcai Wu et al.",
+		"reference": "Yingcai Wu, Shixia Liu, Kai Yan, Mengchen Liu, and Fangzhao Wu. <i>OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 20, issue 12, pp. 1763-1772, 2014.",
+		"url": "https://doi.org/10.1109/TVCG.2014.2346920",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "time-series", "social-media", "color", "line-plot", "maps", "clouds"]
+	},
+	
+	{
+		"id": "Cao2012",
+		"title": "Whisper",
+		"year": 2012,
+		"authors": "Nan Cao et al.",
+		"reference": "Nan Cao, Yu-Ru Lin, Xiaohua Sun, David Lazer, Shixia Liu, and Huamin Qu. <i>Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 18, issue 12, pp. 2649-2658, 2012.",
+		"url": "https://doi.org/10.1109/TVCG.2012.291",
+		"categories": ["polarity-analysis", "opinion-mining", "monitoring", "overview", "classification", "comparison", "navigation", "streams", "geospatial", "time-series", "social-media", "color", "line-plot", "node-link", "maps", "glyph", "clouds"]
+	},
+	
+	{
+		"id": "Wang2015",
+		"title": "SentiCompass",
+		"year": 2015,
+		"authors": "Florence Ying Wang et al.",
+		"reference": "Florence Ying Wang, Arnaud Sallaberry, Karsten Klein, Masahiro Takatsuka, and Mathieu Roche. <i>SentiCompass: Interactive visualization for exploring and comparing the sentiments of time-varying Twitter data</i>. Proceedings of the IEEE Pacific Visualization Symposium (PacificVis), pp. 129-133, 2015.",
+		"url": "https://doi.org/10.1109/PACIFICVIS.2015.7156368",
+		"categories": ["emotion-analysis", "overview", "comparison", "corpora", "time-series", "social-media", "color", "position", "size", "line-plot"]
+	},
+	
+	{
+		"id": "Chen2014",
+		"title": "Emoticons Usage Visualization",
+		"year": 2014,
+		"authors": "Nan-Chen Chen et al.",
+		"reference": "Nan-Chen Chen, Laurie Beth Feldman, Judith F. Kroll, and Cecilia R. Aragon. <i>Emoticons and Linguistic Alignment: How Visual Analytics Can Elicit Storytelling</i>. Poster Abstracts of IEEE VAST, pp. 237-238, 2014.",
+		"url": "https://doi.org/10.1109/VAST.2014.7042508",
+		"categories": ["polarity-analysis", "overview", "comparison", "corpora", "time-series", "communication", "color", "line-plot"]
+	},
+
+	{
+		"id": "Ha2014",
+		"title": "CosMovis",
+		"year": 2014,
+		"authors": "Hyoji Ha et al.",
+		"reference": "Hyoji Ha, Gi-nam Kim, Wonjoo Hwang, Hanmin Choi, and Kyungwon Lee. <i>CosMovis: Analyzing Semantic Network of Sentiment Words in Movie Reviews</i>. Poster Abstracts of IEEE LDAV, pp. 113-114, 2014.",
+		"url": "https://doi.org/10.1109/LDAV.2014.7013215",
+		"categories": ["emotion-analysis", "overview", "classification", "comparison", "corpora", "reviews", "color", "position", "clouds", "maps"]
+	},
+	
+	{
+		"id": "Zhao2014_2",
+		"title": "PEARL",
+		"year": 2014,
+		"authors": "Jian Zhao et al.",
+		"reference": "Jian Zhao, Liang Gou, Fei Wang, and Michelle Zhou. <i>PEARL: An Interactive Visual Analytic Tool for Understanding Personal Emotion Style Derived from Social Media</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), pp. 203-212, 2014.",
+		"url": "https://doi.org/10.1109/VAST.2014.7042496",
+		"categories": ["emotion-analysis", "overview", "roi", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "position", "size", "line-plot", "clouds", "glyph"]
+	},
+
+	{
+		"id": "Kucher2016",
+		"title": "uVSAT",
+		"year": 2016,
+		"authors": "Kostiantyn Kucher et al.",
+		"reference": "Kostiantyn Kucher, Teri Schamp-Bjerede, Andreas Kerren, Carita Paradis, and Magnus Sahlgren. <i>Visual analysis of online social media to open up the investigation of stance phenomena</i>. Information Visualization, vol. 15, no. 2, pp. 93-116, 2016.",
+		"url": "https://doi.org/10.1177/1473871615575079",
+		"categories": ["polarity-analysis", "opinion-mining", "emotion-analysis", "stance-analysis", "roi", "classification", "comparison", "overview", "navigation", "document", "corpora", "streams", "time-series", "social-media", "color", "position", "size", "line-plot", "clouds", "text", "glyph"]
+	},
+
+	{
+		"id": "Guzman2013",
+		"title": "Software Development Projects Emotions Visualization",
+		"year": 2013,
+		"authors": "Emitza Guzman",
+		"reference": "Emitza Guzman. <i>Visualizing emotions in software development projects</i>. Proceedings of First IEEE Working Conference on Software Visualization (VISSOFT), pp. 1-4, 2013.",
+		"url": "https://doi.org/10.1109/VISSOFT.2013.6650529",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "classification", "corpora", "time-series", "communication", "reviews", "color", "clouds"]
+	},
+	
+	{
+		"id": "Guzman2014",
+		"title": "FAVe",
+		"year": 2014,
+		"authors": "Emitza Guzman, Padma Bhuvanagiri, and Bernd Bruegge",
+		"reference": "Emitza Guzman, Padma Bhuvanagiri, and Bernd Bruegge. <i>FAVe: Visualizing User Feedback for Software Evolution</i>. Proceedings of Second IEEE Working Conference on Software Visualization (VISSOFT), pp. 167-171, 2014.",
+		"url": "https://doi.org/10.1109/VISSOFT.2014.33",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "classification", "corpora", "time-series", "reviews", "position", "size", "clouds", "pixel-area"]
+	},
+
+	{
+		"id": "Liu2005",
+		"title": "Opinion Observer",
+		"year": 2005,
+		"authors": "Bing Liu, Minqing Hu, and Junsheng Cheng",
+		"reference": "Bing Liu, Minqing Hu, and Junsheng Cheng. <i>Opinion Observer: Analyzing and Comparing Opinions on the Web</i>. Proceedings of the International Conference on World Wide Web (WWW), pp. 342-351, 2005.",
+		"url": "https://doi.org/10.1145/1060745.1060797",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "navigation", "corpora", "reviews", "position", "size", "pixel-area"]
+	},
+
+	{
+		"id": "Gamon2008",
+		"title": "BLEWS",
+		"year": 2008,
+		"authors": "Michael Gamon et al.",
+		"reference": "Michael Gamon, Sumit Basu, Dmitriy Belenko, Danyel Fisher, Matthew Hurst, and Arnd Christian König. <i>BLEWS: Using Blogs to Provide Context for News Articles</i>. Proceedings of the International Conference on Weblogs and Social Media (ICWSM), pp. 60-67, 2008.",
+		"url": "http://www.aaai.org/Library/ICWSM/2008/icwsm08-015.php",
+		"categories": ["polarity-analysis", "classification", "comparison", "navigation", "uncertainty", "corpora", "social-media", "editorial-media", "color", "size", "pixel-area", "text"]
+	},
+
+	{
+		"id": "Kempter2014",
+		"title": "EmotionWatch",
+		"year": 2014,
+		"authors": "Renato Kempter et al.",
+		"reference": "Renato Kempter, Valentina Sintsova, Claudiu Musat, and Pearl Pu. <i>EmotionWatch: Visualizing Fine-Grained Emotions in Event-Related Tweets</i>. Proceedings of the International AAAI Conference on Weblogs and Social Media (ICWSM), pp. 236-245, 2014.",
+		"url": "http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8117",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "position", "size", "shape", "glyph", "line-plot", "pixel-area"]
+	},
+	
+	{
+		"id": "Wensel2008",
+		"title": "VIBES",
+		"year": 2008,
+		"authors": "April M. Wensel and Sara O. Sood",
+		"reference": "April M. Wensel and Sara O. Sood. <i>VIBES: Visualizing Changing Emotional States in Personal Stories</i>. Proceedings of the ACM International Workshop on Story Representation, Mechanism and Context (SRMC), pp. 49-56, 2008.",
+		"url": "https://doi.org/10.1145/1462014.1462025",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "corpora", "time-series", "social-media", "color", "position", "text", "glyph", "line-plot"]
+	},
+	
+	{
+		"id": "Miao2009",
+		"title": "AMAZING",
+		"year": 2009,
+		"authors": "Qingliang Miao, Qiudan Li, and Ruwei Dai",
+		"reference": "Qingliang Miao, Qiudan Li, and Ruwei Dai. <i>AMAZING: A sentiment mining and retrieval system</i>. Expert Systems with Applications, vol. 36, no. 3, pp. 7192-7198, 2009.",
+		"url": "https://doi.org/10.1016/j.eswa.2008.09.035",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "navigation", "corpora", "time-series", "reviews", "color", "position", "size", "pixel-area", "line-plot"]
+	},
+	
+	{
+		"id": "Diakopoulos2010",
+		"title": "Vox Civitas",
+		"year": 2010,
+		"authors": "Nicholas Diakopoulos, Mor Naaman, and Funda Kivran-Swaine",
+		"reference": "Nicholas Diakopoulos, Mor Naaman, and Funda Kivran-Swaine. <i>Diamonds in the rough: Social media visual analytics for journalistic inquiry</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), pp. 115-122, 2010.",
+		"url": "https://doi.org/10.1109/VAST.2010.5652922",
+		"categories": ["polarity-analysis", "overview", "classification", "comparison", "navigation", "uncertainty", "corpora", "time-series", "social-media", "color", "pixel-area"]
+	},
+
+	{
+		"id": "Alper2011",
+		"title": "OpinionBlocks",
+		"year": 2011,
+		"authors": "Basak Alper et al.",
+		"reference": "Basak Alper, Huahai Yang, Eben Haber, and Eser Kandogan. <i>OpinionBlocks: Visualizing consumer reviews</i>. Proceedings of the IEEE Workshop on Interactive Visual Text Analytics for Decision Making, 2011.",
+		"url": "http://vialab.science.uoit.ca/textvis2011/papers/textvis%202011-alper.pdf",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "navigation", "corpora", "reviews", "size", "pixel-area", "text"]
+	},
+
+	{
+		"id": "Marcus2011",
+		"title": "TwitInfo",
+		"year": 2011,
+		"authors": "Adam Marcus et al.",
+		"reference": "Adam Marcus, Michael S. Bernstein, Osama Badar, David R. Karger, Samuel Madden, and Robert C. Miller. <i>TwitInfo: Aggregating and Visualizing Microblogs for Event Exploration</i>. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), pp. 227-236, 2011.",
+		"url": "https://doi.org/10.1145/1978942.1978975",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "monitoring", "navigation", "comparison", "roi", "streams", "time-series", "geospatial", "social-media", "color", "size", "pixel-area", "text", "maps"]
+	},
+
+	{
+		"id": "Brooks2014",
+		"title": "Agave",
+		"year": 2014,
+		"authors": "Michael Brooks et al.",
+		"reference": "Michael Brooks, John J. Robinson, Megan K. Torkildson, Sungsoo (Ray) Hong, and Cecilia R. Aragon. <i>Collaborative Visual Analysis of Sentiment in Twitter Events</i>. Proceedings of the International Conference on Cooperative Design, Visualization, and Engineering (CDVE), pp. 1-8, 2014.",
+		"url": "https://doi.org/10.1007/978-3-319-10831-5_1",
+		"categories": ["polarity-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "position", "size", "line-plot"]
+	},
+	
+	{
+		"id": "Kumamoto2014",
+		"title": "Impressions from Tweets",
+		"year": 2014,
+		"authors": "Tadahiko Kumamoto, Hitomi Wada, and Tomoya Suzuki",
+		"reference": "Tadahiko Kumamoto, Hitomi Wada, and Tomoya Suzuki. <i>Visualizing Temporal Changes in Impressions from Tweets</i>. Proceedings of the International Conference on Information Integration and Web-based Applications & Services (iiWAS), pp. 116-125, 2014.",
+		"url": "https://doi.org/10.1145/2684200.2684279",
+		"categories": ["emotion-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "position", "size", "line-plot", "pixel-area"]
+	},
+
+	{
+		"id": "Gold2015",
+		"title": "Lexical Episode Plots",
+		"year": 2015,
+		"authors": "Valentin Gold, Christian Rohrdantz and Mennatallah El-Assady",
+		"reference": "Valentin Gold, Christian Rohrdantz and Mennatallah El-Assady. <i>Exploratory Text Analysis using Lexical Episode Plots</i>. Short Papers of Eurographics Conference on Visualization (EuroVis), 2015.",
+		"url": "https://doi.org/10.2312/eurovisshort.20151130",
+		"categories": ["polarity-analysis", "overview", "navigation", "classification", "document", "color", "pixel-area", "text"]
+	},
+
+	{
+		"id": "Steed2015",
+		"title": "Matisse",
+		"year": 2015,
+		"authors": "Chad A. Steed et al.",
+		"reference": "Chad A. Steed, Justin Beaver, Paul L. Bogen II, Margaret Drouhard and Joshua Pyle. <i>Text Stream Trend Analysis using Multiscale Visual Analytics with Applications to Social Media Systems</i>. Proceedings of the IUI Workshop on Visual Text Analytics, 2015.",
+		"url": "http://vialab.science.uoit.ca/textvis2015/papers/Steed-textvis2015.pdf",
+		"categories": ["polarity-analysis", "emotion-analysis", "overview", "classification", "navigation", "comparison", "corpora", "streams", "time-series", "geospatial", "social-media", "color", "position", "size", "line-plot", "pixel-area", "maps", "clouds"]
+	},
+	
+	{
+		"id": "Wanner2011",
+		"title": "ForAVis",
+		"year": 2011,
+		"authors": "Franz Wanner, Thomas Ramm, and Daniel A. Keim",
+		"reference": "Franz Wanner, Thomas Ramm, and Daniel A. Keim. <i>ForAVis: explorative user forum analysis</i>. Proceedings of the International Conference on Web Intelligence, Mining and Semantics (WIMS), article 14, 2011.",
+		"url": "https://doi.org/10.1145/1988688.1988705",
+		"categories": ["polarity-analysis", "overview", "navigation", "comparison", "classification", "corpora", "social-media", "color", "position", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Adams2011",
+		"title": "Eventscapes",
+		"year": 2011,
+		"authors": "Brett Adams, Dinh Phung, and Svetha Venkatesh",
+		"reference": "Brett Adams, Dinh Phung, and Svetha Venkatesh. <i>Eventscapes: visualizing events over time with emotive facets</i>. Proceedings of the ACM international conference on Multimedia (MM), pp. 1477-1480, 2011.",
+		"url": "https://doi.org/10.1145/2072298.2072044",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "classification", "navigation", "comparison", "corpora", "social-media", "editorial-media", "time-series", "color", "position", "clouds", "text"]
+	},
+	
+	{
+		"id": "Scharl2012",
+		"title": "webLyzard",
+		"year": 2012,
+		"authors": "Arno Scharl et al.",
+		"reference": "Arno Scharl, Alexander Hubmann-Haidvogel, Albert Weichselbraun, Gerhard Wohlgenannt, Heinz-Peter Lang, and Marta Sabou. <i>Extraction and interactive exploration of knowledge from aggregated news and social media content</i>. Proceedings of the ACM SIGCHI symposium on Engineering interactive computing systems (EICS), pp. 163-168, 2012.",
+		"url": "https://doi.org/10.1145/2305484.2305511",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "roi", "monitoring", "corpora", "streams", "time-series", "geospatial", "social-media", "editorial-media", "color", "position", "line-plot", "maps", "clouds"]
+	},
+	
+	{
+		"id": "Xu2011",
+		"title": "Comparative Relation Map",
+		"year": 2011,
+		"authors": "Kaiquan Xu et al.",
+		"reference": "Kaiquan Xu, Stephen Shaoyi Liao, Jiexun Li, and Yuxia Song. <i>Mining comparative opinions from customer reviews for Competitive Intelligence</i>. Decision Support Systems, vol. 50, no. 4, pp. 743-754, 2011.",
+		"url": "https://doi.org/10.1016/j.dss.2010.08.021",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "networks", "reviews", "color", "size", "node-link", "pixel-area"]
+	},
+	
+	{
+		"id": "Gamon2005",
+		"title": "Pulse",
+		"year": 2005,
+		"authors": "Michael Gamon et al.",
+		"reference": "Michael Gamon, Anthony Aue, Simon Corston-Oliver, and Eric Ringger. <i>Pulse: Mining Customer Opinions from Free Text</i>. Proceedings of International Symposium on Intelligent Data Analysis (IDA), pp. 121-132, 2005.",
+		"url": "https://doi.org/10.1007/11552253_12",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "navigation", "corpora", "reviews", "color", "pixel-area", "text"]
+	},
+	
+	{
+		"id": "Cao2015",
+		"title": "SocialHelix",
+		"year": 2015,
+		"authors": "Nan Cao et al.",
+		"reference": "Nan Cao, Lu Lu, Yu-Ru Lin, Fei Wang, and Zhen Wen. <i>SocialHelix: visual analysis of sentiment divergence in social media</i>. Journal of Visualization, vol. 18, no. 2, pp. 221-235, 2015.",
+		"url": "https://doi.org/10.1007/s12650-014-0246-x",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "corpora", "time-series", "networks", "social-media", "color", "position", "line-plot", "glyph", "clouds", "node-link"]
+	},
+	
+	{
+		"id": "Taskaya2003",
+		"title": "SATISFI",
+		"year": 2003,
+		"authors": "Tugba Taskaya and Khurshid Ahmad",
+		"reference": "Tugba Taskaya and Khurshid Ahmad. <i>Bimodal visualisation: a financial trading case study</i>. Proceedings of the International Conference on Information Visualisation (IV), pp. 320-326, 2003.",
+		"url": "https://doi.org/10.1109/IV.2003.1217997",
+		"categories": ["polarity-analysis", "overview", "navigation", "comparison", "corpora", "time-series", "editorial-media", "color", "position", "line-plot"]
+	},
+	
+	{
+		"id": "Wecker2014",
+		"title": "Semantize",
+		"year": 2014,
+		"authors": "Alan J. Wecker et al.",
+		"reference": "Alan J. Wecker, Joel Lanir, Osnat Mokryn, Einat Minkov, and Tsvi Kuflik. <i>Semantize: visualizing the sentiment of individual document</i>. Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI), pp. 385-386, 2014.",
+		"url": "https://doi.org/10.1145/2598153.2600056",
+		"categories": ["polarity-analysis", "navigation", "document", "color", "size", "text"]
+	},
+	
+	{
+		"id": "Kuang2014",
+		"title": "ImgWordle",
+		"year": 2014,
+		"authors": "Chong Kuang et al.",
+		"reference": "Chong Kuang, Jiayu Tang, Zhiyuan Liu, and Maosong Sun. <i>ImgWordle: image and text visualization for events in microblogging services</i>. Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI), pp. 371-372, 2014.",
+		"url": "https://doi.org/10.1145/2598153.2600041",
+		"categories": ["polarity-analysis", "overview", "navigation", "corpora", "geospatial", "time-series", "social-media", "texture", "maps"]
+	},
+	
+	{
+		"id": "Prasojo2015",
+		"title": "ORCAESTRA",
+		"year": 2015,
+		"authors": "Radityo Eko Prasojo, Fariz Darari, and Mouna Kacimi",
+		"reference": "Radityo Eko Prasojo, Fariz Darari, and Mouna Kacimi. <i>ORCAESTRA: Organizing News Comments using Aspect, Entity and Sentiment Extraction</i>. Poster Abstracts of IEEE VIS, 2015.",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "corpora", "networks", "editorial-media", "social-media", "color", "node-link", "clouds"]
+	},
+
+	{
+		"id": "Munezero2015",
+		"title": "EmoTwitter",
+		"year": 2015,
+		"authors": "Myriam Munezero et al.",
+		"reference": "Myriam Munezero, Calkin Suero Montero, Maxim Mozgovoy, and Erkki Sutinen. <i>EmoTwitter – A Fine-Grained Visualization System for Identifying Enduring Sentiments in Tweets</i>. Proceedings of the International Conference on Intelligent Text Processing and Computational Linguistics (CICLing), pp. 78-91, 2015.",
+		"url": "https://doi.org/10.1007/978-3-319-18117-2_6",
+		"categories": ["polarity-analysis", "opinion-mining", "emotion-analysis", "overview", "classification", "comparison", "corpora", "time-series", "social-media", "color", "position", "size", "shape", "line-plot", "pixel-area", "clouds"]
+	},
+	
+	{
+		"id": "Liu2003",
+		"title": "Affect Color Bar",
+		"year": 2003,
+		"authors": "Hugo Liu, Ted Selker, and Henry Lieberman",
+		"reference": "Hugo Liu, Ted Selker, and Henry Lieberman. <i>Visualizing the affective structure of a text document</i>. CHI Extended Abstracts on Human Factors in Computing Systems (CHI EA), pp. 740-741, 2003.",
+		"url": "https://doi.org/10.1145/765891.765961",
+		"categories": ["emotion-analysis", "overview", "comparison", "navigation", "document", "literature", "color", "shape", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Cao2016",
+		"title": "TargetVue",
+		"year": 2016,
+		"authors": "Nan Cao et al.",
+		"reference": "Nan Cao, Conglei Shi, Sabrina Lin, Jie Lu, Yu-Ru Lin, and Ching-Yung Lin. <i>TargetVue: Visual Analysis of Anomalous User Behaviors in Online Communication Systems</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 22, no. 1, pp. 280-289, 2016.",
+		"url": "https://doi.org/10.1109/TVCG.2015.2467196",
+		"categories": ["polarity-analysis", "overview", "monitoring", "classification", "roi", "comparison", "navigation", "corpora", "streams", "time-series", "networks", "social-media", "communication", "color", "glyph"]
+	},
+	
+	{
+		"id": "Fukuhara2007",
+		"title": "Sentiment-biased Topic Visualization",
+		"year": 2007,
+		"authors": "Tomohiro Fukuhara, Hiroshi Nakagawa and Toyoaki Nishida",
+		"reference": "Tomohiro Fukuhara, Hiroshi Nakagawa and Toyoaki Nishida. <i>Understanding Sentiment of People from News Articles: Temporal Sentiment Analysis of Social Events</i>. Proceedings of the International Conference on Weblogs and Social Media (ICWSM), 2007.",
+		"url": "http://www.icwsm.org/papers/paper49.html",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "classification", "comparison", "corpora", "time-series", "social-media", "editorial-media", "color", "size", "line-plot"]
+	},
+	
+	{
+		"id": "Mishne2006",
+		"title": "MoodViews",
+		"year": 2006,
+		"authors": "Gilad Mishne and Maarten de Rijke",
+		"reference": "Gilad Mishne and Maarten de Rijke. <i>MoodViews: Tools for Blog Mood Analysis</i>. Proceedings of the AAAI Spring Symposium: Computational Approaches to Analyzing Weblogs, pp. 153-154, 2006.",
+		"url": "http://www.aaai.org/Library/Symposia/Spring/2006/ss06-03-029.php",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "classification", "comparison", "corpora", "time-series", "social-media", "position", "line-plot"]
+	},
+	
+	{
+		"id": "Lu2016",
+		"title": "Event Cueing Visualization",
+		"year": 2016,
+		"authors": "Yafeng Lu et al.",
+		"reference": "Yafeng Lu, Michael Steptoe, Sarah Burke, Hong Wang, Jiun-Yi Tsai, Hasan Davulcu, Douglas Montgomery, Steven R. Corman, and Ross Maciejewski. <i>Exploring Evolving Media Discourse Through Event Cueing</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 22, no. 1, pp. 220-229, 2016.",
+		"url": "https://doi.org/10.1109/TVCG.2015.2467991",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "roi", "comparison", "navigation", "uncertainty", "corpora", "streams", "time-series", "geospatial", "editorial-media", "color", "size", "line-plot"]
+	},
+	
+	{
+		"id": "Yatani2011",
+		"title": "Review Spotlight",
+		"year": 2011,
+		"authors": "Koji Yatani et al.",
+		"reference": "Koji Yatani, Michael Novati, Andrew Trusty, and Khai N. Truong. <i>Review spotlight: a user interface for summarizing user-generated reviews using adjective-noun word pairs</i>. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), pp. 1541-1550, 2011.",
+		"url": "https://doi.org/10.1145/1978942.1979167",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "corpora", "reviews", "color", "clouds"]
+	},
+	
+	{
+		"id": "Wang2013_3",
+		"title": "Fisheye Word Cloud",
+		"year": 2013,
+		"authors": "Ji Wang, Kyle D. Dent, and Chris L. North",
+		"reference": "Ji Wang, Kyle D. Dent, and Chris L. North. <i>Fisheye word cloud for temporal sentiment exploration</i>. CHI Extended Abstracts on Human Factors in Computing Systems (CHI EA), pp. 1767-1772, 2013.",
+		"url": "https://doi.org/10.1145/2468356.2468673",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "position", "clouds"]
+	},
+	
+	{
+		"id": "Annett2008",
+		"title": "Sentiment Visualization for eNulog",
+		"year": 2008,
+		"authors": "Michelle Annett and Grzegorz Kondrak",
+		"reference": "Michelle Annett and Grzegorz Kondrak. <i>A Comparison of Sentiment Analysis Techniques: Polarizing Movie Blogs</i>. Proceedings of Conference of the Canadian Society for Computational Studies of Intelligence (Canadian AI), pp. 25-35, 2008.",
+		"url": "https://doi.org/10.1007/978-3-540-68825-9_3",
+		"categories": ["polarity-analysis", "overview", "classification", "comparison", "navigation", "uncertainty", "corpora", "social-media", "color", "clouds", "glyph"]
+	},
+	
+	{
+		"id": "Tat2006",
+		"title": "CrystalChat",
+		"year": 2006,
+		"authors": "Annie Tat and Sheelagh Carpendale",
+		"reference": "Annie Tat and Sheelagh Carpendale. <i>CrystalChat: Visualizing Personal Chat History</i>. Proceedings of the Annual Hawaii International Conference on System Sciences (HICSS), vol. 3, 2006.",
+		"url": "https://doi.org/10.1109/HICSS.2006.107",
+		"categories": ["emotion-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "communication", "color", "maps"]
+	},
+	
+	{
+		"id": "Marrese-Taylor2013",
+		"title": "Opinion Zoom",
+		"year": 2013,
+		"authors": "Edison Marrese-Taylor, Juan D. Velásquez, and Felipe Bravo-Marquez",
+		"reference": "Edison Marrese-Taylor, Juan D. Velásquez, and Felipe Bravo-Marquez. <i>Opinion Zoom: A Modular Tool to Explore Tourism Opinions on the Web</i>. Proceedings of IEEE/WIC/ACM International Joint Conferences on the Web Intelligence (WI) and Intelligent Agent Technologies (IAT), pp. 261-264, 2013.",
+		"url": "https://doi.org/10.1109/WI-IAT.2013.193",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "reviews", "color", "position", "size", "text", "pixel-area", "clouds"]
+	},
+	
+	{
+		"id": "Kranjc2015",
+		"title": "ClowdFlows",
+		"year": 2015,
+		"authors": "Janez Kranjc et al.",
+		"reference": "Janez Kranjc, Jasmina Smailović, Vid Podpečan, Miha Grčar, Martin Žnidaršič, and Nada Lavrač. <i>Active learning for sentiment analysis on data streams: Methodology and workflow implementation in the ClowdFlows platform</i>. Information Processing & Management, vol. 51, no. 2, pp. 187–203, 2015.",
+		"url": "https://doi.org/10.1016/j.ipm.2014.04.001",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "monitoring", "classification", "comparison", "corpora", "streams", "time-series", "social-media", "color", "size", "line-plot", "clouds"]
+	},
+	
+	{
+		"id": "DiCaro2013",
+		"title": "SentiVis",
+		"year": 2013,
+		"authors": "Luigi Di Caro and Matteo Grella",
+		"reference": "Luigi Di Caro and Matteo Grella. <i>Sentiment analysis via dependency parsing</i>. Computer Standards & Interfaces, vol. 35, no. 5, pp. 442-453, 2013.",
+		"url": "https://doi.org/10.1016/j.csi.2012.10.005",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "corpora", "reviews", "position", "line-plot"]
+	},
+	
+	{
+		"id": "Kim2014",
+		"title": "Semi-supervised Laplacian Eigenmap",
+		"year": 2014,
+		"authors": "Kyoungok Kim and Jaewook Lee",
+		"reference": "Kyoungok Kim and Jaewook Lee. <i>Sentiment visualization and classification via semi-supervised nonlinear dimensionality reduction</i>. Pattern Recognition, vol. 47, no. 2, pp. 758-768, 2014.",
+		"url": "https://doi.org/10.1016/j.patcog.2013.07.022",
+		"categories": ["polarity-analysis", "overview", "classification", "comparison", "corpora", "reviews", "color", "shape", "position", "clouds"]
+	},
+	
+	{
+		"id": "Scharl2016",
+		"title": "Westeros Sentinel",
+		"year": 2016,
+		"authors": "Arno Scharl et al.",
+		"reference": "Arno Scharl, Alexander Hubmann-Haidvogel, Alistair Jones, Daniel Fischl, Ruslan Kamolov, Albert Weichselbraun, and Walter Rafelsberger. <i>Analyzing the public discourse on works of fiction – Detection and visualization of emotion in online coverage about HBO’s Game of Thrones</i>. Information Processing & Management, vol. 52, no. 1, pp. 129-138, 2016.",
+		"url": "https://doi.org/10.1016/j.ipm.2015.02.003",
+		"categories": ["polarity-analysis", "opinion-mining", "emotion-analysis", "overview", "monitoring", "classification", "comparison", "navigation", "corpora", "streams", "time-series", "networks", "social-media", "editorial-media", "color", "size", "position", "shape", "line-plot", "node-link", "pixel-area", "text"]
+	},
+		
+	{
+		"id": "Subasic2001",
+		"title": "Affect Inspector",
+		"year": 2001,
+		"authors": "Pero Subasic and Alison Huettner",
+		"reference": "Pero Subasic and Alison Huettner. <i>Affect analysis of text using fuzzy semantic typing</i>. IEEE Transactions on Fuzzy Systems, vol. 9, no. 4, pp. 483-496, 2001.",
+		"url": "https://doi.org/10.1109/91.940962",
+		"categories": ["emotion-analysis", "comparison", "navigation", "document", "corpora", "editorial-media", "reviews", "literature", "position", "line-plot", "clouds"]
+	},
+	
+	{
+		"id": "Mohammad2012",
+		"title": "Emotion tracking visualization",
+		"year": 2012,
+		"authors": "Saif M. Mohammad",
+		"reference": "Saif M. Mohammad. <i>From once upon a time to happily ever after: Tracking emotions in mail and books</i>. Decision Support Systems, vol. 53, no. 4, pp. 730-741, 2012.",
+		"url": "https://doi.org/10.1016/j.dss.2012.05.03",
+		"categories": ["polarity-analysis", "emotion-analysis", "comparison", "navigation", "overview", "document", "corpora", "communication", "literature", "color", "size", "position", "line-plot", "pixel-area", "clouds"]
+	},
+	
+	{
+		"id": "Kang2011",
+		"title": "Emotion Topic Diagram",
+		"year": 2011,
+		"authors": "Xin Kang and Fuji Ren",
+		"reference": "Xin Kang and Fuji Ren. <i>Sampling latent emotions and topics in a hierarchical Bayesian network</i>. Proceedings of the International Conference on Natural Language Processing and Knowledge Engineering (NLP-KE), pp. 37-42, 2011.",
+		"url": "https://doi.org/10.1109/NLPKE.2011.6138166",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "classification", "comparison", "document", "corpora", "social-media", "color", "node-link"]
+	},
+	
+	{
+		"id": "Lee2010_2",
+		"title": "Financial Blogs Visualization",
+		"year": 2010,
+		"authors": "Hyowon Lee et al.",
+		"reference": "Hyowon Lee, Paul Ferguson, Neil O'Hare, Cathal Gurrin, and Alan F. Smeaton. <i>Integrating Interactivity into Visualising Sentiment Analysis of Blogs</i>. Proceedings of the International Workshop on Intelligent Visual Interfaces for Text Analysis (IVITA), pp. 17-20, 2010.",
+		"url": "https://doi.org/10.1145/2002353.2002360",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "navigation", "comparison", "classification", "corpora", "time-series", "social-media", "color", "shape", "size", "position", "line-plot", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Li2009",
+		"title": "Emotion Matrix Visualization",
+		"year": 2009,
+		"authors": "Huana Li and Fuji Ren",
+		"reference": "Huana Li and Fuji Ren. <i>The study on text emotional orientation based on a three-dimensional emotion space model</i>. Proceedings of the International Conference on Natural Language Processing and Knowledge Engineering (NLP-KE), 2009.",
+		"url": "https://doi.org/10.1109/NLPKE.2009.5313815",
+		"categories": ["emotion-analysis", "overview", "document", "social-media", "color", "position", "size", "shape", "maps"]
+	},
+	
+	{
+		"id": "Gobron2010",
+		"title": "FACS-based Emotion Visualization",
+		"year": 2010,
+		"authors": "Stephane Gobron et al.",
+		"reference": "Stephane Gobron, Junghyun Ahn, Georgios Paltoglou, Michael Thelwall, and Daniel Thalmann. <i>From sentence to emotion: a real-time three-dimensional graphics metaphor of emotions extracted from text</i>. The Visual Computer, vol. 26, no. 6, pp. 505-519, 2010.",
+		"url": "https://doi.org/10.1007/s00371-010-0446-x",
+		"categories": ["polarity-analysis", "emotion-analysis", "monitoring", "document", "streams", "communication", "social-media", "color", "position", "shape", "glyph"]
+	},
+	
+	{
+		"id": "Zhao2012_2",
+		"title": "MoodLens",
+		"year": 2012,
+		"authors": "Jichang Zhao et al.",
+		"reference": "Jichang Zhao, Li Dong, Junjie Wu, and Ke Xu. <i>MoodLens: an emoticon-based sentiment analysis system for Chinese tweets</i>. Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (KDD), pp. 1528-1531, 2012.",
+		"url": "https://doi.org/10.1145/2339530.2339772",
+		"categories": ["emotion-analysis", "overview", "roi", "comparison", "monitoring", "corpora", "streams", "time-series", "geospatial", "social-media", "color", "size", "line-plot", "pixel-area", "maps", "glyph"]
+	},
+	
+	{
+		"id": "Zhang2009",
+		"title": "Sentiment Map",
+		"year": 2009,
+		"authors": "Jianwei Zhang et al.",
+		"reference": "Jianwei Zhang, Yukiko Kawai, Tadahiko Kumamoto, and Katsumi Tanaka. <i>A Novel Visualization Method for Distinction of Web News Sentiment</i>. Proceedings of the International Conference on Web Information Systems Engineering (WISE), pp. 181-194, 2009.",
+		"url": "https://doi.org/10.1007/978-3-642-04409-0_22",
+		"categories": ["emotion-analysis", "overview", "comparison", "corpora", "time-series", "geospatial", "editorial-media", "color", "position", "line-plot", "maps"]
+	},
+	
+	{
+		"id": "Schaefer2010",
+		"title": "Scientist's Workbench",
+		"year": 2010,
+		"authors": "Ulrich Schäfer and Christian Spurk",
+		"reference": "Ulrich Schäfer and Christian Spurk. <i>TAKE Scientist's Workbench: Semantic Search and Citation-Based Visual Navigation in Scholar Papers</i>. Proceedings of the IEEE International Conference on Semantic Computing (ICSC), pp. 317-324, 2010.",
+		"url": "https://doi.org/10.1109/ICSC.2010.40",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "uncertainty", "corpora", "time-series", "networks", "papers", "color", "node-link"]
+	},
+	
+	{
+		"id": "Small2011",
+		"title": "Maps of Science",
+		"year": 2011,
+		"authors": "Henry Small",
+		"reference": "Henry Small. <i>Interpreting maps of science using citation context sentiments: a preliminary investigation</i>. Scientometrics, vol. 87, no. 2, pp.373-388, 2011.",
+		"url": "https://doi.org/10.1007/s11192-011-0349-2",
+		"categories": ["polarity-analysis", "opinion-mining", "stance-analysis", "overview", "classification", "comparison", "corpora", "networks", "papers", "position", "node-link"]
+	},
+	
+	{
+		"id": "Zhao2016",
+		"title": "Social Sentiment Sensor",
+		"year": 2016,
+		"authors": "Yanyan Zhao et al.",
+		"reference": "Yanyan Zhao, Bing Qin, Ting Liu, Duyu Tang. <i>Social sentiment sensor: a visualization system for topic detection and topic sentiment analysis on microblog</i>. Multimedia Tools and Applications, vol. 75, no. 15, pp. 8843-8860, 2016.",
+		"url": "https://doi.org/10.1007/s11042-014-2184-y",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "classification", "navigation", "comparison", "corpora", "time-series", "geospatial", "social-media", "color", "position", "size", "line-plot", "maps", "glyph", "pixel-area"]
+	},
+	
+	{
+		"id": "Krcadinac2016",
+		"title": "Synemania",
+		"year": 2016,
+		"authors": "Uros Krcadinac et al.",
+		"reference": "Uros Krcadinac, Jelena Jovanovic, Vladan Devedzic, and Philippe Pasquier. <i>Textual Affect Communication and Evocation Using Abstract Generative Visuals</i>. IEEE Transactions on Human-Machine Systems, vol. 46, no. 3, pp. 370-379, 2016.",
+		"url": "https://doi.org/10.1109/THMS.2015.2504081",
+		"categories": ["emotion-analysis", "monitoring", "comparison", "document", "streams", "communication", "color", "texture", "maps"]
+	},
+	
+	{
+		"id": "Li2016",
+		"title": "VisTravel",
+		"year": 2016,
+		"authors": "Qiusheng Li et al.",
+		"reference": "Qiusheng Li, Yadong Wu, Song Wang, Maosong Lin, Xinmiao Feng, and Haiyang Wang. <i>VisTravel: visualizing tourism network opinion from the user generated content</i>. Journal of Visualization, vol. 19, no. 3, pp. 489–502, 2016.",
+		"url": "https://doi.org/10.1007/s12650-015-0330-x",
+		"categories": ["polarity-analysis", "overview", "navigation", "comparison", "corpora", "time-series", "geospatial", "reviews", "color", "size", "line-plot", "pixel-area"]
+	},
+	
+	{
+		"id": "Hoque2016",
+		"title": "MultiConVis",
+		"year": 2016,
+		"authors": "Enamul Hoque and Giuseppe Carenini",
+		"reference": "Enamul Hoque and Giuseppe Carenini. <i>MultiConVis: A Visual Text Analytics System for Exploring a Collection of Online Conversations</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 96-107, 2016.",
+		"url": "https://doi.org/10.1145/2856767.2856782",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "corpora", "networks", "time-series", "social-media", "color", "position", "size", "node-link", "text", "pixel-area"]
+	},
+	
+	{
+		"id": "Mahmud2016",
+		"title": "Visual Analytics For Customer Intervention",
+		"year": 2016,
+		"authors": "Jalal Mahmud et al.",
+		"reference": "Jalal Mahmud, Geli Fei, Anbang Xu, Aditya Pal, and Michelle Zhou. <i>Predicting Attitude and Actions of Twitter Users</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 2-6, 2016.",
+		"url": "https://doi.org/10.1145/2856767.2856800",
+		"categories": ["opinion-mining", "overview", "comparison", "navigation", "corpora", "social-media", "position", "size", "pixel-area"]
+	},
+	
+	{
+		"id": "El-Assady2016",
+		"title": "ConToVi",
+		"year": 2016,
+		"authors": "Mennatallah El-Assady et al.",
+		"reference": "Mennatallah El-Assady, Valentin Gold, Carmela Acevedo, Christopher Collins, and Daniel Keim. <i>ConToVi: Multi-Party Conversation Exploration using Topic-Space Views</i>. Computer Graphics Forum, vol. 35, no. 3, pp. 431-440, 2016.",
+		"url": "https://doi.org/10.1111/cgf.12919",
+		"categories": ["opinion-mining", "stance-analysis", "overview", "comparison", "classification", "monitoring", "navigation", "corpora", "time-series", "communication", "color", "position", "size", "line-plot", "glyph"]
+	},
+	
+	{
+		"id": "Liu2013",
+		"title": "Co-trained Sentiment Classifier Visualization",
+		"year": 2013,
+		"authors": "Shenghua Liu et al.",
+		"reference": "Shenghua Liu, Wenjun Zhu, Ning Xu, Fangtao Li, Xue-qi Cheng, Yue Liu, and Yuanzhuo Wang. <i>Co-training and Visualizing Sentiment Evolvement for Tweet Events</i>. Proceedings of the 22nd International Conference on World Wide Web (WWW '13 Companion), pp. 105-106, 2013.",
+		"url": "https://doi.org/10.1145/2487788.2487836",
+		"categories": ["polarity-analysis", "overview", "comparison", "monitoring", "streams", "time-series", "social-media", "color", "position", "size", "line-plot", "text"]
+	},
+	
+	{
+		"id": "Pupi2014",
+		"title": "Ent-it-UP",
+		"year": 2014,
+		"authors": "Sara Pupi, Giulia Di Pietro, and Carlo Aliprandi",
+		"reference": "Sara Pupi, Giulia Di Pietro, and Carlo Aliprandi. <i>Ent-it-UP</i>. HCI International 2014 – Posters' Extended Abstracts, pp. 3-8, 2014.",
+		"url": "https://doi.org/10.1007/978-3-319-07854-0_1",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "time-series", "social-media", "editorial-media", "color", "text"]
+	},
+	
+	{
+		"id": "Cresci2014",
+		"title": "Tour-pedia",
+		"year": 2014,
+		"authors": "Stefano Cresci et al.",
+		"reference": "Stefano Cresci, Andrea D'Errico, Davide Gazzé, Angelica Lo Duca, Andrea Marchetti, and Maurizio Tesconi. <i>Tour-pedia: A Web Application for Sentiment Visualization in Tourism Domain</i>. Proceedings of the LREC 2014 OpeNER Workshop, pp. 18-21, 2014.",
+		"url": "http://www.lrec-conf.org/proceedings/lrec2014/workshops/LREC2014Workshop-ComeHackwithOpeNER%20Proceeedings.pdf",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "geospatial", "reviews", "color", "position", "size", "shape", "maps", "glyph"]
+	},
+	
+	{
+		"id": "Brath2016_2",
+		"title": "Typographic Set Graph",
+		"year": 2016,
+		"authors": "Richard Brath and Ebad Banissi",
+		"reference": "Richard Brath and Ebad Banissi. <i>Typographic Sets: Labelled Set Elements with Font Attributes</i>. Proceedings of the International Workshop on Set Visualization and Reasoning (SetVR), pp. 29-43, 2016.",
+		"url": "http://ceur-ws.org/Vol-1655/brath.pdf",
+		"categories": ["polarity-analysis", "emotion-analysis", "classification", "comparison", "overview", "navigation", "document", "corpora", "color", "position", "shape", "clouds", "maps", "text"]
+	},
+	
+	{
+		"id": "Chen2015",
+		"title": "User Opinion Visualization",
+		"year": 2015,
+		"authors": "Yu-Sheng Chen et al.",
+		"reference": "Yu-Sheng Chen, Lieu-Hen Chen, Toru Yamaguchi, and Yasufumi Takama. <i>Visualization System for Analyzing User Opinion</i>. Proceedings of the IEEE/SICE International Symposium on System Integration (SII), pp. 646-649, 2015.",
+		"url": "https://doi.org/10.1109/SII.2015.7405055",
+		"categories": ["opinion-mining", "emotion-analysis", "overview", "comparison", "classification", "navigation", "document", "networks", "communication", "color", "node-link", "text"]
+	},
+	
+	{
+		"id": "Hennig2014",
+		"title": "Sentimap",
+		"year": 2014,
+		"authors": "Patrick Hennig et al.",
+		"reference": "Patrick Hennig, Philipp Berger, Christoph Meinel, Lukas Pirl, and Lukas Schulze. <i>Exploring emotions over time within the blogosphere</i>. Proceedings of the IEEE International Conference on Data Science and Advanced Analytics (DSAA), pp. 587-592, 2014.",
+		"url": "https://doi.org/10.1109/DSAA.2014.7058131",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "maps"]
+	},
+	
+	{
+		"id": "Bembenik2016",
+		"title": "Proposals and Arguments Visualization",
+		"year": 2016,
+		"authors": "Robert Bembenik and Piotr Andruszkiewicz",
+		"reference": "Robert Bembenik and Piotr Andruszkiewicz. <i>Towards Automatic Argument Extraction and Visualization in a Deliberative Model of Online Consultations for Local Governments</i>. Proceedings of the East European Conference on Advances in Databases and Information Systems (ADBIS), pp. 74-86, 2016.",
+		"url": "https://doi.org/10.1007/978-3-319-44039-2_6",
+		"categories": ["opinion-mining", "stance-analysis", "overview", "comparison", "document", "networks", "social-media", "communication", "color", "node-link", "text"]
+	},
+	
+	{
+		"id": "Cervantes2015",
+		"title": "Sentiment Card",
+		"year": 2015,
+		"authors": "Ofelia Cervantes et al.",
+		"reference": "Ofelia Cervantes, Francisco Gutiérrez, Ernesto Gutiérrez, Esteban Castillo, J. Alfredo Sánchez, and Wanggen Wan. <i>Expression: Visualizing Affective Content from Social Streams</i>. Proceedings of the Latin American Conference on Human Computer Interaction (CLIHC), 2015.",
+		"url": "https://doi.org/10.1145/2824893.2824903",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "monitoring", "streams", "time-series", "geospatial", "social-media", "color", "position", "size", "line-plot", "pixel-area", "maps", "glyph", "text"]
+	},
+	
+	{
+		"id": "Das2012",
+		"title": "5W Summarization",
+		"year": 2012,
+		"authors": "Amitava Das, Sivaji Bandyopadhyay, and Björn Gambäck",
+		"reference": "Amitava Das, Sivaji Bandyopadhyay, and Björn Gambäck. <i>Sentiment Analysis: What is the End User's Requirement?</i>. Proceedings of the International Conference on Web Intelligence, Mining and Semantics (WIMS), 2012.",
+		"url": "https://doi.org/10.1145/2254129.2254173",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "communication", "color", "position", "size", "line-plot", "pixel-area"]
+	},
+	
+	{
+		"id": "Hennig2015",
+		"title": "Cluster Heat Map",
+		"year": 2015,
+		"authors": "Patrick Hennig et al.",
+		"reference": "Patrick Hennig, Philipp Berger, Maximilian Brehm, Bastien Grasnick, Jonathan Herdt, and Christoph Meinel. <i>Hot spot detection – An interactive cluster heat map for sentiment analysis</i>. Proceedings of the IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2015.",
+		"url": "https://doi.org/10.1109/DSAA.2015.7344885",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "social-media", "color", "pixel-area", "node-link", "maps"]
+	},
+	
+	{
+		"id": "Brasoveanu2012",
+		"title": "News Flow",
+		"year": 2012,
+		"authors": "Adrian M.P. Braşoveanu, Alexander Hubmann-Haidvogel, and Arno Scharl",
+		"reference": "Adrian M.P. Braşoveanu, Alexander Hubmann-Haidvogel, and Arno Scharl. <i>Interactive visualization of emerging topics in multiple social media streams</i>. Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI), pp. 530-533, 2012.",
+		"url": "https://doi.org/10.1145/2254556.2254655",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "monitoring", "corpora", "time-series", "networks", "social-media", "color", "pixel-area", "node-link"]
+	},
+	
+	{
+		"id": "Qiu2015",
+		"title": "eduMRS - II",
+		"year": 2015,
+		"authors": "Robin G. Qiu, Ramya R. Ravi, and Lawrence L. Qiu",
+		"reference": "Robin G. Qiu, Ramya R. Ravi, and Lawrence L. Qiu. <i>Aggregating and visualizing public opinions and sentiment trends on the US higher education</i>. Proceedings of the International Conference on Information Integration and Web-based Applications & Services (iiWAS), 2015.",
+		"url": "https://doi.org/10.1145/2837185.2837261",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "geospatial", "social-media", "reviews", "size", "maps", "glyph", "text"]
+	},
+	
+	{
+		"id": "Chen2015_2",
+		"title": "LDA-Based Sentiment Visualization",
+		"year": 2015,
+		"authors": "Yu-Sheng Chen, Lieu-Hen Chen, and Yasufumi Takama",
+		"reference": "Yu-Sheng Chen, Lieu-Hen Chen, and Yasufumi Takama. <i>Proposal of LDA-Based Sentiment Visualization of Hotel Reviews</i>. Proceedings of the IEEE International Conference on Data Mining Workshop (ICDMW), pp. 687-693, 2015.",
+		"url": "https://doi.org/10.1109/ICDMW.2015.72",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "reviews", "color", "position", "text"]
+	},
+	
+	{
+		"id": "Dai2016",
+		"title": "Sentiment Visualization with Weighted Word Embeddings",
+		"year": 2016,
+		"authors": "Xiangfeng Dai and Robert Prout",
+		"reference": "Xiangfeng Dai and Robert Prout. <i>Unlocking Super Bowl Insights: Weighted Word Embeddings for Twitter Sentiment Classification</i>. Proceedings of the Multidisciplinary International Social Networks Conference, SocialInformatics, Data Science (MISNC, SI, DS), 2016.",
+		"url": "https://doi.org/10.1145/2955129.2955148",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "geospatial", "social-media", "color", "size", "line-plot", "maps", "glyph"]
+	},
+	
+	{
+		"id": "Tsirakis2017",
+		"title": "PaloPro",
+		"year": 2017,
+		"authors": "Nikos Tsirakis et al.",
+		"reference": "Nikos Tsirakis, Vasilis Poulopoulosa, Panagiotis Tsantilasa, and Iraklis Varlamis. <i>Large scale opinion mining for social, news and blog data</i>. Journal of Systems and Software, vol. 127, pp. 237-248, 2017.",
+		"url": "https://doi.org/10.1016/j.jss.2016.06.012",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "streams", "time-series", "social-media", "editorial-media", "color", "position", "size", "line-plot", "pixel-area", "text"]
+	},
+	
+	{
+		"id": "Zhao2016_2",
+		"title": "Sentiment Visualization with a Parallel Coordinates Plot",
+		"year": 2016,
+		"authors": "Shuai Zhao et al.",
+		"reference": "Shuai Zhao, Yunhai Tong, Xinhai Liu, and Shaohua Tan. <i>Correlating Twitter with the stock market through non-Gaussian SVAR</i>. Proceedings of the International Conference on the Advanced Computational Intelligence (ICACI), pp. 257-264, 2016.",
+		"url": "https://doi.org/10.1109/ICACI.2016.7449835",
+		"categories": ["polarity-analysis", "overview", "comparison", "corpora", "time-series", "social-media", "position", "line-plot"]
+	},
+	
+	{
+		"id": "Sijtsma2016",
+		"title": "Tweetviz",
+		"year": 2016,
+		"authors": "Bas Sijtsma, Pernilla Qvarfordt, and Francine Chen",
+		"reference": "Bas Sijtsma, Pernilla Qvarfordt, and Francine Chen. <i>Tweetviz: Visualizing Tweets for Business Intelligence</i>. Proceedings of the International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), pp. 1153-1156, 2016.",
+		"url": "https://doi.org/10.1145/2911451.2911470",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "geospatial", "social-media", "color", "maps", "glyph"]
+	},
+	
+	{
+		"id": "Hoeber2016",
+		"title": "Vista",
+		"year": 2016,
+		"authors": "Orland Hoeber et al.",
+		"reference": "Orland Hoeber, Larena Hoeber, Maha El Meseery, Kenneth Odoh, and Radhika Gopi. <i>Visual Twitter Analytics (Vista): Temporally changing sentiment and the discovery of emergent themes within sport event tweets</i>. Online Information Review, vol. 40, no. 1, pp. 25-41, 2016.",
+		"url": "https://doi.org/10.1108/OIR-02-2015-0067",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "geospatial", "social-media", "color", "position", "line-plot", "maps", "glyph"]
+	},
+	
+	{
+		"id": "Pino2016",
+		"title": "GeoSentiment",
+		"year": 2016,
+		"authors": "Carmelo Pino, Isaak Kavasidis, and Concetto Spampinato",
+		"reference": "Carmelo Pino, Isaak Kavasidis, and Concetto Spampinato. <i>GeoSentiment: a Tool for Analyzing Geographically Distributed Event-related Sentiments</i>. Proceedings of the IEEE Annual Consumer Communications Networking Conference (CCNC), pp. 270-271, 2016.",
+		"url": "https://doi.org/10.1109/CCNC.2016.7444775",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "geospatial", "social-media", "editorial-media", "color", "position", "size", "line-plot", "pixel-area", "maps"]
+	},
+	
+	{
+		"id": "Yu2016",
+		"title": "Weibo Sentiment Visualization",
+		"year": 2016,
+		"authors": "Zhiwen Yu et al.",
+		"reference": "Zhiwen Yu, Zhitao Wang, Liming Chen, Bin Guo, and Wenjie Li. <i>Featuring, Detecting, and Visualizing Human Sentiment in Chinese Micro-Blog</i>. ACM Transactions on Knowledge Discovery from Data (TKDD), vol. 10, no. 4, 2016.",
+		"url": "https://doi.org/10.1145/2821513",
+		"categories": ["polarity-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "geospatial", "social-media", "color", "position", "line-plot", "pixel-area", "maps", "clouds", "text"]
+	},
+	
+	{
+		"id": "Wu2012",
+		"title": "City Flow",
+		"year": 2012,
+		"authors": "Jiayu Wu et al.",
+		"reference": "Jiayu Wu, Zhiyong Fu, Zhiyuan Liu, Jiajia Pan, Huiling Long, Xu Lin, Haoqing He, Xinxiong Chen, and Jiayu Tang. <i>City Flow: Prototype Exploration for Visualizing Urban Traffic Conversations</i>. Proceedings of the International Conference on Privacy, Security, Risk and Trust (PASSAT) and the International Conference on Social Computing (SocialCom), pp. 481-489, 2012.",
+		"url": "https://doi.org/10.1109/SocialCom-PASSAT.2012.40",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "geospatial", "social-media", "color", "pixel-area", "maps"]
+	},
+	
+	{
+		"id": "Wu2013",
+		"title": "City Sentiment",
+		"year": 2013,
+		"authors": "Jiayu Wu et al.",
+		"reference": "Jiayu Wu, Zhiyong Fu, Zhiyuan Liu, Xu Lin, Jiayu Tang, Jiajia Pan, and Chen Zhao. <i>Creating reflections in public emotion visualization: prototype exploration on traffic theme</i>. Proceedings of the ACM Conference on Creativity & Cognition (C&C), pp. 357-361, 2013.",
+		"url": "https://doi.org/10.1145/2466627.2466671",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "geospatial", "social-media", "color", "size", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Mohammad2016",
+		"title": "SemEval-2016 Stance Dataset Visualization",
+		"year": 2016,
+		"authors": "Saif M. Mohammad et al.",
+		"reference": "Saif M. Mohammad, Svetlana Kiritchenko, Parinaz Sobhani, Xiaodan Zhu, and Colin Cherry. <i>Semeval-2016 Task 6: Detecting Stance in Tweets</i>. Proceedings of the International Workshop on Semantic Evaluation (SemEval), 2016.",
+		"url": "http://saifmohammad.com/WebPages/StanceDataset.htm",
+		"categories": ["polarity-analysis", "opinion-mining", "stance-analysis", "overview", "comparison", "navigation", "corpora", "social-media", "color", "size", "pixel-area", "text"]
+	},
+	
+	{
+		"id": "Wang2016",
+		"title": "Narrative Visualization for Scientific Literature Review",
+		"year": 2016,
+		"authors": "Yun Wang et al.",
+		"reference": "Yun Wang, Dongyu Liu, Huamin Qu, Qiong Luo, and Xiaojuan Ma. <i>A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization</i>. Proceedings of the International Symposium on Visual Information Communication and Interaction (VINCI), pp. 17-24, 2016.",
+		"url": "https://doi.org/10.1145/2968220.2968242",
+		"categories": ["polarity-analysis", "overview", "comparison", "navigation", "document", "corpora", "networks", "papers", "color", "node-link", "clouds"]
+	},
+	
+	{
+		"id": "Dehiya2016",
+		"title": "Visual Analysis of Hillary Clinton's Emails",
+		"year": 2016,
+		"authors": "Vasundhara Dehiya and Klaus Mueller",
+		"reference": "Vasundhara Dehiya and Klaus Mueller. <i>Analyzing Hillary Clinton's Emails</i>. Poster Abstracts of IEEE VIS, 2016.",
+		"url": "http://www3.cs.stonybrook.edu/~mueller/papers/Analyzing%20Hillary%20Clinton%20Emails%20VIS%202016.pdf",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "time-series", "communication", "position", "size", "line-plot", "pixel-area"]
+	},
+	
+	{
+		"id": "Kwon2016",
+		"title": "VisOHC",
+		"year": 2016,
+		"authors": "Bum Chul Kwon et al.",
+		"reference": "Bum Chul Kwon, Sung-Hee Kim, Sukwon Lee, Jaegul Choo, Jina Huh, and Ji Soo Yi. <i>VisOHC: Designing Visual Analytics for Online Health Communities</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 22, no. 1, pp. 71-80, 2016.",
+		"url": "https://doi.org/10.1109/TVCG.2015.2467555",
+		"categories": ["polarity-analysis", "overview", "comparison", "classification", "roi", "navigation", "corpora", "time-series", "networks", "social-media", "color", "position", "pixel-area", "clouds"]
+	},
+	
+	{
+		"id": "Wang2016_2",
+		"title": "IdeaFlow",
+		"year": 2016,
+		"authors": "Xiting Wang et al.",
+		"reference": "Xiting Wang, Shixia Liu, Yang Chen, Tai-Quan Peng, Jing Su, Jing Yang, and Baining Guo. <i>How Ideas Flow across Multiple Social Groups</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), pp. 51-60, 2016.",
+		"url": "https://doi.org/10.1109/VAST.2016.7883511",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "networks", "social-media", "color", "line-plot"]
+	},
+	
+	{
+		"id": "Fu2017",
+		"title": "iForum",
+		"year": 2017,
+		"authors": "Siwei Fu et al.",
+		"reference": "Siwei Fu, Jian Zhao, Weiwei Cui, and Huamin Qu. <i>Visual Analysis of MOOC Forums with iForum</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 23, no. 1, pp. 201-210, 2017.",
+		"url": "https://doi.org/10.1109/TVCG.2016.2598444",
+		"categories": ["polarity-analysis", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "networks", "geospatial", "social-media", "color", "line-plot", "node-link", "glyph"]
+	},
+	
+	{
+		"id": "Liu2016_2",
+		"title": "BrandWheel",
+		"year": 2016,
+		"authors": "Xiaotong Liu et al.",
+		"reference": "Xiaotong Liu, Anbang Xu, Liang Gou, Haibin Liu, Rama Akkiraju, and Han-Wei Shen. <i>SocialBrands: Visual Analysis of Public Perceptions of Brands on Social Media</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), pp. 71-80, 2016.",
+		"url": "https://doi.org/10.1109/VAST.2016.7883513",
+		"categories": ["opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "networks", "social-media", "reviews", "color", "size", "pixel-area", "text"]
+	},
+	
+	{
+		"id": "Liu2016_3",
+		"title": "BrandSediments",
+		"year": 2016,
+		"authors": "Xiaotong Liu et al.",
+		"reference": "Xiaotong Liu, Anbang Xu, Liang Gou, Haibin Liu, Rama Akkiraju, and Han-Wei Shen. <i>SocialBrands: Visual Analysis of Public Perceptions of Brands on Social Media</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), pp. 71-80, 2016.",
+		"url": "https://doi.org/10.1109/VAST.2016.7883513",
+		"categories": ["opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "networks", "social-media", "reviews", "color", "position", "glyph", "clouds"]
+	},
+	
+	{
+		"id": "Ruppert2016",
+		"title": "PolicyLine",
+		"year": 2016,
+		"authors": "Tobias Ruppert et al.",
+		"reference": "Tobias Ruppert, Andreas Bannach, Jürgen Bernard, Hendrik Lücke-Tieke, Alex Ulmer, and Jörn Kohlhammer. <i>Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System</i>. Proceedings of the International Symposium on Visual Information Communication and Interaction (VINCI), pp. 104-111, 2016.",
+		"url": "https://doi.org/10.1145/2968220.2968223",
+		"categories": ["polarity-analysis", "overview", "document", "communication", "editorial-media", "color", "glyph", "text"]
+	},
+	
+	{
+		"id": "Calderon2014",
+		"title": "Visualization of Emergency-Related Tweets",
+		"year": 2014,
+		"authors": "Nadya A. Calderon, Richard Arias-Hernandez, and Brian Fisher",
+		"reference": "Nadya A. Calderon, Richard Arias-Hernandez, and Brian Fisher. <i>Studying Animation for Real-Time Visual Analytics: A Design Study of Social Media Analytics in Emergency Management</i>. Proceedings of the Hawaii International Conference on System Sciences (HICSS), pp. 1364-1373, 2014.",
+		"url": "https://doi.org/10.1109/HICSS.2014.176",
+		"categories": ["polarity-analysis", "overview", "monitoring", "comparison", "corpora", "streams", "time-series", "social-media", "color", "position", "size", "line-plot", "glyph"]
+	},
+	
+	{
+		"id": "Caragea2014",
+		"title": "Mood Mapping for Disaster Response",
+		"year": 2014,
+		"authors": "Cornelia Caragea et al.",
+		"reference": "Cornelia Caragea, Anna Cinzia Squicciarini, Sam Stehle, Kishore Neppalli, and Andrea H. Tapia. <i>Mapping Moods: Geo-Mapped Sentiment Analysis During Hurricane Sandy</i>. Proceedings of the International Conference on Information Systems for Crisis Response and Management (ISCRAM), 2014.",
+		"url": "http://www.iscram.org/legacy/ISCRAM2014/papers/p29.pdf",
+		"categories": ["polarity-analysis", "overview", "classification", "comparison", "corpora", "time-series", "geospatial", "social-media", "color", "line-plot", "maps", "clouds", "glyph"]
+	},
+	
+	{
+		"id": "Torkildson2014",
+		"title": "Oil Spill Visualization",
+		"year": 2014,
+		"authors": "Megan K. Torkildson, Kate Starbird, and Cecilia Aragon",
+		"reference": "Megan K. Torkildson, Kate Starbird, and Cecilia Aragon. <i>Analysis and Visualization of Sentiment and Emotion on Crisis Tweets</i>. Proceedings of the International Conference on Cooperative Design, Visualization, and Engineering (CDVE), pp. 64-67, 2014.",
+		"url": "https://doi.org/10.1007/978-3-319-10831-5_9",
+		"categories": ["emotion-analysis", "stance-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "color", "size", "line-plot"]
+	},
+	
+	{
+		"id": "Lu2015",
+		"title": "Sentiment Visualization of Geo-Located Twitter Data",
+		"year": 2015,
+		"authors": "Yafeng Lu et al.",
+		"reference": "Yafeng Lu, Xia Hu, Feng Wang, Shamanth Kumar, Huan Liu, and Ross Maciejewski. <i>Visualizing Social Media Sentiment in Disaster Scenarios</i>. Proceedings of the International Conference on World Wide Web (WWW), pp. 1211-1215, 2015.",
+		"url": "https://doi.org/10.1145/2740908.2741720",
+		"categories": ["polarity-analysis", "overview", "classification", "comparison", "navigation", "uncertainty", "corpora", "time-series", "geospatial", "social-media", "color", "size", "line-plot", "maps", "glyph", "text"]
+	},
+	
+	{
+		"id": "Chen2017",
+		"title": "Lariat",
+		"year": 2017,
+		"authors": "Nan-Chen Chen et al.",
+		"reference": "Nan-Chen Chen, Michael Brooks, Rafal Kocielnik, Sungsoo (Ray) Hong, Jeff Smith, Sanny Lin, Zening Qu, and Cecilia Aragon. <i>Lariat: A Visual Analytics Tool for Social Media Researchers to Explore Twitter Datasets</i>. Proceedings of the Hawaii International Conference on System Sciences (HICSS), pp. 1881-1890, 2017.",
+		"url": "https://doi.org/10.24251/HICSS.2017.228",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "size", "pixel-area"]
+	},
+	
+	{
+		"id": "Kuksenok2012",
+		"title": "Affect Annotations Timeline",
+		"year": 2012,
+		"authors": "Katie Kuksenok et al.",
+		"reference": "Katie Kuksenok, Michael Brooks, John J. Robinson, Daniel Perry, Megan K. Torkildson, and Cecilia Aragon. <i>Automating Large-Scale Annotation for Analysis of Social Media Content</i>. Proceedings of the IEEE Workshop on Interactive Visual Text Analytics (TextVis), 2012.",
+		"url": "http://vialab.science.uoit.ca/textvis2012/paper/Automating.pdf",
+		"categories": ["emotion-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "size", "line-plot", "pixel-area"]
+	},
+	
+	{
+		"id": "Neviarouskaya2014",
+		"title": "@AM",
+		"year": 2014,
+		"authors": "Alena Neviarouskaya et al.",
+		"reference": "Alena Neviarouskaya, Masaki Aono, Helmut Prendinger, and Mitsuru Ishizuka. <i>Intelligent Interface for Textual Attitude Analysis</i>. ACM Transactions on Intelligent Systems and Technology, vol. 5, no. 3, article 48, 2014.",
+		"url": "https://doi.org/10.1145/2535912",
+		"categories": ["polarity-analysis", "emotion-analysis", "stance-analysis", "overview", "comparison", "document", "color", "position", "size", "line-plot", "pixel-area", "text"]
+	},
+	
+	{
+		"id": "Sung2016",
+		"title": "ToPIN",
+		"year": 2016,
+		"authors": "Ching-Ying Sung et al.",
+		"reference": "Ching-Ying Sung, Xun-Yi Huang, Yicong Shen, Fu-Yin Cherng, Wen-Chieh Lin, and Hao-Chuan Wang. <i>ToPIN: A Visual Analysis Tool for Time-anchored Comments in Online Educational Videos</i>. CHI '16 Extended Abstracts on Human Factors in Computing Systems, pp. 2185-2191, 2016.",
+		"url": "https://doi.org/10.1145/2851581.2892327",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "comparison", "navigation", "corpora", "time-series", "networks", "social-media", "color", "node-link"]
+	},
+	
+	{
+		"id": "Kaye2012",
+		"title": "Nokia Internet Pulse",
+		"year": 2012,
+		"authors": "Joseph 'Jofish' Kaye et al.",
+		"reference": "Joseph 'Jofish' Kaye, Anita Lillie, Deepak Jagdish, James Walkup, Rita Parada, and Koichi Mori. <i>Nokia Internet Pulse: A Long Term Deployment and Iteration of a Twitter Visualization</i>. CHI '12 Extended Abstracts on Human Factors in Computing Systems, pp. 829-844, 2012.",
+		"url": "https://doi.org/10.1145/2212776.2212856",
+		"categories": ["polarity-analysis", "comparison", "overview", "monitoring", "corpora", "time-series", "social-media", "color", "text"]
+	},
+	
+	{
+		"id": "Huang2017",
+		"title": "Active Learning Annotation Interface",
+		"year": 2017,
+		"authors": "Lulu Huang et al.",
+		"reference": "Lulu Huang, Stan Matwin, Eder J. de Carvalho, and Rosane Minghim. <i>Active Learning with Visualization for Text Data</i>. Proceedings of the ACM Workshop on Exploratory Search and Interactive Data Analytics (ESIDA), pp. 69-74, 2017.",
+		"url": "https://doi.org/10.1145/3038462.3038469",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "navigation", "corpora", "networks", "color", "size", "pixel-area", "node-link", "clouds"]
+	},
+	
+	{
+		"id": "Jentner2017",
+		"title": "Feature Alignment Visualization",
+		"year": 2017,
+		"authors": "Wolfgang Jentner et al.",
+		"reference": "Wolfgang Jentner, Mennatallah El-Assady, Bela Gipp, and Daniel Keim. <i>Feature Alignment for the Analysis of Verbatim Text Transcripts</i>. Proceedings of the EuroVis Workshop on Visual Analytics (EuroVA), 2017.",
+		"url": "https://doi.org/10.2312/eurova.20171113",
+		"categories": ["stance-analysis", "classification", "comparison", "overview", "navigation", "corpora", "time-series", "networks", "communication", "color", "position", "node-link", "glyph", "text"]
+	},
+	
+	{
+		"id": "Hundt2017",
+		"title": "Geolocated Echo Chambers Visualization",
+		"year": 2017,
+		"authors": "Michael Hundt et al.",
+		"reference": "Michael Hundt, Bruno Schneider, Mennatallah El-Assady, Daniel Keim, and Alexandra Diehl. <i>Visual Analysis of Geolocated Echo Chambers in Social Media</i>. Poster Abstracts of the Eurographics Conference on Visualization (EuroVis), 2017.",
+		"url": "https://doi.org/10.2312/eurp.20171185",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "navigation", "uncertainty", "corpora", "geospatial", "time-series", "networks", "social-media", "color", "pixel-area", "node-link", "maps", "glyph"]
+	},
+	
+	{
+		"id": "El-Assady2017",
+		"title": "NEREx",
+		"year": 2017,
+		"authors": "Mennatallah El-Assady et al.",
+		"reference": "Mennatallah El-Assady, Rita Sevastjanova, Bela Gipp, Daniel Keim, and Christopher Collins. <i>NEREx: Named-Entity Relationship Exploration in Multi-Party Conversations</i>. Computer Graphics Forum, vol. 36, no. 3, pp. 213-225, 2017.",
+		"url": "https://doi.org/10.1111/cgf.13181",
+		"categories": ["polarity-analysis", "opinion-mining", "stance-analysis", "classification", "comparison", "overview", "monitoring", "navigation", "corpora", "time-series", "networks", "communication", "color", "shape", "node-link", "glyph", "text"]
+	},
+	
+	{
+		"id": "Humayoun2017",
+		"title": "TExVis",
+		"year": 2017,
+		"authors": "Shah Rukh Humayoun et al.",
+		"reference": "Shah Rukh Humayoun, Saman Ardalan, Ragaad AlTarawneh, and Achim Ebert. <i>TExVis: An Interactive Visual Tool to Explore Twitter Data</i>. Short Papers of the Eurographics Conference on Visualization (EuroVis), 2017.",
+		"url": "https://doi.org/10.2312/eurovisshort.20171149",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "navigation", "uncertainty", "corpora", "time-series", "networks", "social-media", "color", "size", "pixel-area", "node-link"]
+	},
+	
+	{
+		"id": "Rios2017",
+		"title": "TSViz",
+		"year": 2017,
+		"authors": "Ricardo A. Rios et al.",
+		"reference": "Ricardo A. Rios, Paulo A. Pagliosa, Renato P. Ishii, and Rodrigo F. de Mello. <i>TSViz: A Data Stream Architecture to Online Collect, Analyze, and Visualize Tweets</i>. Proceedings of the Symposium on Applied Computing (SAC), pp. 1031-1036, 2017.",
+		"url": "https://doi.org/10.1145/3019612.3019811",
+		"categories": ["polarity-analysis", "comparison", "overview", "monitoring", "streams", "time-series", "social-media", "position", "line-plot"]
+	},
+	
+	{
+		"id": "Kucher2017",
+		"title": "ALVA",
+		"year": 2017,
+		"authors": "Kostiantyn Kucher et al.",
+		"reference": "Kostiantyn Kucher, Carita Paradis, Magnus Sahlgren, and Andreas Kerren. <i>Active Learning and Visual Analytics for Stance Classification with ALVA</i>. ACM Transactions on Interactive Intelligent Systems, vol. 7, no. 3, article 14, 2017.",
+		"url": "https://doi.org/10.1145/3132169",
+		"categories": ["stance-analysis", "classification", "comparison", "overview", "navigation", "corpora", "time-series", "networks", "social-media", "color", "position", "texture", "line-plot", "pixel-area", "node-link", "clouds", "glyph", "text"]
+	},
+	
+	{
+		"id": "Martins2017",
+		"title": "StanceXplore",
+		"year": 2017,
+		"authors": "Rafael M. Martins et al.",
+		"reference": "Rafael M. Martins, Vasiliki Simaki, Kostiantyn Kucher, Carita Paradis and Andreas Kerren. <i>StanceXplore: Visualization for the Interactive Exploration of Stance in Social Media</i>. Proceedings of the Workshop on Visualization for the Digital Humanities (VIS4DH), 2017.",
+		"url": "http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Alnu%3Adiva-67320",
+		"categories": ["opinion-mining", "stance-analysis", "classification", "comparison", "overview", "navigation", "uncertainty", "corpora", "geospatial", "time-series", "social-media", "color", "size", "line-plot", "pixel-area", "maps", "glyph", "text"]
+	},
+	
+	{
+		"id": "Stoffel2017",
+		"title": "AmbiguityMatrix",
+		"year": 2017,
+		"authors": "Florian Stoffel et al.",
+		"reference": "Florian Stoffel, Wolfgang Jentner, Michael Behrisch, Johannes Fuchs, and Daniel Keim. <i>Interactive Ambiguity Resolution of Named Entities in Fictional Literature</i>. Computer Graphics Forum, vol. 36, no. 3, pp. 189-200, 2017.",
+		"url": "https://doi.org/10.1111/cgf.13179",
+		"categories": ["opinion-mining", "emotion-analysis", "classification", "comparison", "overview", "navigation", "document", "literature", "color", "position", "pixel-area"]
+	},
+	
+	{
+		"id": "Xu2017",
+		"title": "Controversy Visualization",
+		"year": 2017,
+		"authors": "Jin Xu et al.",
+		"reference": "Jin Xu, Yubo Tao, Hai Lin, Rongjie Zhu, and Yuyu Yan. <i>Exploring controversy via sentiment divergences of aspects in reviews</i>. Proceedings of the IEEE Pacific Visualization Symposium (PacificVis), pp. 240-249, 2017.",
+		"url": "https://doi.org/10.1109/PACIFICVIS.2017.8031600",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "navigation", "uncertainty", "corpora", "time-series", "networks", "reviews", "color", "position", "size", "line-plot", "pixel-area", "clouds", "glyph", "text"]
+	},
+	
+	{
+		"id": "Hohman2017",
+		"title": "Viz of Ice and Fire",
+		"year": 2017,
+		"authors": "Fred Hohman et al.",
+		"reference": "Fred Hohman, Sandeep Soni, Ian Stewart, and John Stasko. <i>A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue</i>. Proceedings of the Workshop on Visualization for the Digital Humanities (VIS4DH), 2017.",
+		"url": "http://vis4dh.dbvis.de/papers/2017/A%20Viz%20of%20Ice%20and%20Fire%20Exploring%20Entertainment%20Video%20Using%20Color%20and%20Dialogue.pdf",
+		"categories": ["polarity-analysis", "emotion-analysis", "comparison", "overview", "navigation", "corpora", "time-series", "editorial-media", "literature", "position", "size", "clouds", "glyph"]
+	},
+	
+	{
+		"id": "Bader2017",
+		"title": "Plutchik Radar",
+		"year": 2017,
+		"authors": "Nadeem Bader, Osnat Mokryn, and Joel Lanir",
+		"reference": "Nadeem Bader, Osnat Mokryn, and Joel Lanir. <i>Exploring Emotions in Online Movie Reviews for Online Browsing</i>. Proceedings of the International Conference on Intelligent User Interfaces Companion (IUI Companion), pp. 35-38, 2017.",
+		"url": "https://doi.org/10.1145/3030024.3040982",
+		"categories": ["emotion-analysis", "comparison", "overview", "document", "corpora", "reviews", "position", "line-plot", "glyph"]
+	},
+	
+	{
+		"id": "Gao2017",
+		"title": "Controversial Topics Visualization",
+		"year": 2017,
+		"authors": "Mingkun Gao, Hyo Jin Do, and Wai-Tat Fu",
+		"reference": "Mingkun Gao, Hyo Jin Do, and Wai-Tat Fu. <i>An Intelligent Interface for Organizing Online Opinions on Controversial Topics</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 119-123, 2017.",
+		"url": "https://doi.org/10.1145/3025171.3025230",
+		"categories": ["opinion-mining", "emotion-analysis", "classification", "comparison", "overview", "navigation", "corpora", "social-media", "position", "size", "pixel-area", "glyph", "text"]
+	},
+	
+	{
+		"id": "Cho2017",
+		"title": "CrystalBall",
+		"year": 2017,
+		"authors": "Isaac Cho et al.",
+		"reference": "Isaac Cho, Ryan Wesslen, Svitlana Volkova, Bill Ribarsky, and Wenwen Dou. <i>CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data</i>. Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST), 2017.",
+		"url": "https://doi.org/10.1109/VAST.2017.8585658",
+		"categories": ["opinion-mining", "emotion-analysis", "classification", "comparison", "overview", "monitoring", "navigation", "uncertainty", "corpora", "streams", "geospatial", "time-series", "networks", "social-media", "color", "size", "pixel-area", "node-link", "glyph"]
+	},
+	
+	{
+		"id": "Kucher2018",
+		"title": "DoSVis",
+		"year": 2018,
+		"authors": "Kostiantyn Kucher, Carita Paradis, and Andreas Kerren",
+		"reference": "Kostiantyn Kucher, Carita Paradis, and Andreas Kerren. <i>DoSVis: Document Stance Visualization</i>. Proceedings of the International Conference on Information Visualization Theory and Applications (IVAPP), pp. 168-175, 2018.",
+		"url": "https://doi.org/10.5220/0006539101680175",
+		"categories": ["stance-analysis", "comparison", "overview", "navigation", "uncertainty", "document", "reviews", "literature", "editorial-media", "color", "position", "shape", "clouds", "glyph", "text"]
+	},
+	
+	{
+		"id": "Skeppstedt2018",
+		"title": "Topics2Themes",
+		"year": 2018,
+		"authors": "Maria Skeppstedt et al.",
+		"reference": "Maria Skeppstedt, Kostiantyn Kucher, Manfred Stede, and Andreas Kerren. <i>Topics2Themes: Computer-Assisted Argument Extraction by Visual Analysis of Important Topics</i>. Proceedings of the LREC Workshop on Visualization as Added Value in the Development, Use and Evaluation of Language Resources (VisLR), 2018.",
+		"url": "http://lrec-conf.org/workshops/lrec2018/W16/summaries/2_W16.html",
+		"categories": ["opinion-mining", "stance-analysis", "classification", "comparison", "overview", "navigation", "corpora", "networks", "social-media", "color", "size", "node-link", "glyph", "text"]
+	},
+	
+	{
+		"id": "GomezZara2018",
+		"title": "News Articles Role Detection",
+		"year": 2018,
+		"authors": "Diego Gomez-Zara, Miriam Boon, and Larry Birnbaum",
+		"reference": "Diego Gomez-Zara, Miriam Boon, and Larry Birnbaum. <i>Who is the Hero, the Villain, and the Victim?: Detection of Roles in News Articles using Natural Language Techniques</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 311-315, 2018.",
+		"url": "https://doi.org/10.1145/3172944.3172993",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "document", "editorial-media", "color", "glyph", "text"]
+	},
+	
+	{
+		"id": "Harris2018",
+		"title": "NewsTone",
+		"year": 2018,
+		"authors": "Christopher Harris",
+		"reference": "Christopher Harris. <i>Searching for Diverse Perspectives in News Articles: Using an LSTM Network to Classify Sentiment</i>. Proceedings of the Workshop on Exploratory Search and Interactive Data Analytics (ESIDA), 2018.",
+		"url": "http://ceur-ws.org/Vol-2068/esida3.pdf",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "document", "corpora", "editorial-media", "color", "size", "position", "shape", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Chamberlain2018",
+		"title": "Scalable Visualization of Sentiment and Stance",
+		"year": 2018,
+		"authors": "Jon Chamberlain, Udo Kruschwitz, and Orland Hoeber",
+		"reference": "Jon Chamberlain, Udo Kruschwitz, and Orland Hoeber. <i>Scalable Visualisation of Sentiment and Stance</i>. Proceedings of the International Conference on Language Resources and Evaluation (LREC), pp. 4181-4182, 2018.",
+		"url": "http://lrec-conf.org/proceedings/lrec2018/summaries/760.html",
+		"categories": ["polarity-analysis", "opinion-mining", "stance-analysis", "classification", "comparison", "overview", "corpora", "social-media", "color", "size", "position", "shape", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Wu2018",
+		"title": "StreamExplorer",
+		"year": 2018,
+		"authors": "Yingcai Wu et al.",
+		"reference": "Yingcai Wu, Zhutian Chen, Guodao Sun, Xiao Xie, Nan Cao, Shixia Liu, and Weiwei Cui. <i>StreamExplorer: A Multi-Stage System for Visually Exploring Events in Social Streams</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 10, pp. 2758-2772, 2018.",
+		"url": "https://doi.org/10.1109/TVCG.2017.2764459",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "monitoring", "navigation", "corpora", "streams", "geospatial", "time-series", "networks", "social-media", "color", "clouds", "glyph"]
+	},
+	
+	{
+		"id": "Fu2018",
+		"title": "VisForum",
+		"year": 2018,
+		"authors": "Siwei Fu et al.",
+		"reference": "Siwei Fu, Yong Wang, Yi Yang, Qingqing Bi, Fangzhou Guo, and Huamin Qu. <i>VisForum: A Visual Analysis System for Exploring User Groups in Online Forums</i>. ACM Transactions on Interactive Intelligent Systems, vol. 8, no. 1, article 3, 2018.",
+		"url": "https://doi.org/10.1145/3162075",
+		"categories": ["polarity-analysis", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "networks", "social-media", "color", "glyph"]
+	},
+	
+	{
+		"id": "Topal2017",
+		"title": "Emotion Map",
+		"year": 2017,
+		"authors": "Kamil Topal and Gultekin Ozsoyoglu",
+		"reference": "Kamil Topal and Gultekin Ozsoyoglu. <i>Emotional Classification and Visualization of Movies Based on Their IMDb Reviews</i>. Information Discovery and Delivery, vol. 45, no. 3, pp. 149-158, 2017.",
+		"url": "https://doi.org/10.1108/IDD-05-2017-0045",
+		"categories": ["emotion-analysis", "overview", "comparison", "classification", "corpora", "reviews", "color", "pixel-area", "maps"]
+	},
+	
+	{
+		"id": "Kim2018",
+		"title": "Story Explorer",
+		"year": 2018,
+		"authors": "Nam Wook Kim et al.",
+		"reference": "Nam Wook Kim, Benjamin Bach, Hyejin Im, Sasha Schriber, Markus Gross, and Hanspeter Pfister. <i>Visualizing Nonlinear Narratives with Story Curves</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 1, pp. 595-604, 2018.",
+		"url": "https://doi.org/10.1109/TVCG.2017.2744118",
+		"categories": ["polarity-analysis", "overview", "comparison", "classification", "navigation", "document", "time-series", "literature", "editorial-media", "color", "line-plot"]
+	},
+	
+	{
+		"id": "Valdiviezo2017",
+		"title": "SCWorld",
+		"year": 2017,
+		"authors": "Omar Valdiviezo, J. Alfredo Sánchez, and Ofelia Cervantes",
+		"reference": "Omar Valdiviezo, J. Alfredo Sánchez, and Ofelia Cervantes. <i>Visualizing Sentiment Change in Social Networks</i>. Proceedings of the Latin American Conference on Human-Computer Interaction (CLIHC), article 1, 2017.",
+		"url": "https://doi.org/10.1145/3151470.3151475",
+		"categories": ["polarity-analysis", "opinion-mining", "classification", "comparison", "overview", "monitoring", "navigation", "streams", "time-series", "networks", "social-media", "color", "position", "node-link"]
+	},
+	
+	{
+		"id": "Meersbergen2017",
+		"title": "Storyteller",
+		"year": 2017,
+		"authors": "Maarten van Meersbergen et al.",
+		"reference": "Maarten van Meersbergen, Piek Vossen, Janneke van der Zwaan, Antske Fokkens, Willem van Hage, Inger Leemans, and Isa Maks. <i>Storyteller: Visual Analytics of Perspectives on Rich Text Interpretations</i>. Proceedings of the EMNLP Workshop: Natural Language Processing meets Journalism, pp. 37-45, 2017.",
+		"url": "http://aclweb.org/anthology/W17-4207",
+		"categories": ["emotion-analysis", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "literature", "color", "shape", "text"]
+	},
+	
+	{
+		"id": "Jiranantanagorn2016",
+		"title": "ClasSense Morale Graph",
+		"year": 2016,
+		"authors": "Peerumporn Jiranantanagorn and Haifeng Shen",
+		"reference": "Peerumporn Jiranantanagorn and Haifeng Shen. <i>Sentiment Analysis and Visualisation in a Backchannel System</i>. Proceedings of the Australian Conference on Computer-Human Interaction (OzCHI), pp. 353-357, 2016.",
+		"url": "https://doi.org/10.1145/3010915.3010992",
+		"categories": ["polarity-analysis", "overview", "comparison", "navigation", "corpora", "time-series", "social-media", "communication", "position", "glyph"]
+	},
+	
+	{
+		"id": "Hoque2015",
+		"title": "ConVisIT",
+		"year": 2015,
+		"authors": "Enamul Hoque and Giuseppe Carenini",
+		"reference": "Enamul Hoque and Giuseppe Carenini. <i>ConVisIT: Interactive Topic Modeling for Exploring Asynchronous Online Conversations</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 169-180, 2015.",
+		"url": "https://doi.org/10.1145/2678025.2701370",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "classification", "navigation", "comparison", "corpora", "networks", "social-media", "color", "size", "position", "node-link", "pixel-area"]
+	},
+	
+	{
+		"id": "Nguyen2013",
+		"title": "Public Sentiment Score Visualization",
+		"year": 2013,
+		"authors": "Vu Dung Nguyen, Blesson Varghese, and Adam Barker",
+		"reference": "Vu Dung Nguyen, Blesson Varghese, and Adam Barker. <i>The Royal Birth of 2013: Analysing and Visualising Public Sentiment in the UK Using Twitter</i>. Proceedings of the IEEE International Conference on Big Data, pp. 46-54, 2013.",
+		"url": "https://doi.org/10.1109/BigData.2013.6691669",
+		"categories": ["polarity-analysis", "overview", "comparison", "corpora", "time-series", "geospatial", "social-media", "color", "position", "line-plot", "pixel-area", "maps"]
+	},
+	
+	{
+		"id": "Mitchell2013",
+		"title": "Geography of Happiness",
+		"year": 2013,
+		"authors": "Lewis Mitchell et al.",
+		"reference": "Lewis Mitchell, Morgan R. Frank, Kameron Decker Harris, Peter Sheridan Dodds, and Christopher M. Danforth. <i>The Geography of Happiness: Connecting Twitter Sentiment and Expression, Demographics, and Objective Characteristics of Place</i>. PLoS ONE, vol. 8, no. 5, article e64417, 2013.",
+		"url": "https://doi.org/10.1371/journal.pone.0064417",
+		"categories": ["emotion-analysis", "overview", "comparison", "corpora", "geospatial", "social-media", "color", "position", "size", "shape", "pixel-area", "maps", "clouds", "glyph"]
+	},
+	
+	{
+		"id": "Claster2010",
+		"title": "Tourism and Conflict Sentiment Visualization",
+		"year": 2010,
+		"authors": "William B. Claster, Malcolm Cooper, and Philip Sallis",
+		"reference": "William B. Claster, Malcolm Cooper, and Philip Sallis. <i>Thailand – Tourism and Conflict: Modeling Sentiment from Twitter Tweets Using Naïve Bayes and Unsupervised Artificial Neural Nets</i>. Proceedings of the International Conference on Computational Intelligence, Modelling and Simulation (CIMSim), pp. 89-94, 2010.",
+		"url": "https://doi.org/10.1109/CIMSiM.2010.98",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "social-media", "position", "line-plot"]
+	},
+	
+	{
+		"id": "Wang2018",
+		"title": "E-Comp",
+		"year": 2018,
+		"authors": "Yong Wang et al.",
+		"reference": "Yong Wang, Hammad Haleem, Conglei Shi, Yanhong Wu, Xun Zhao, Siwei Fu, and Huamin Qu. <i>Towards Easy Comparison of Local Businesses Using Online Reviews</i>. Computer Graphics Forum, vol. 37, no. 3, pp. 63-74, 2018.",
+		"url": "https://doi.org/10.1111/cgf.13401",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "navigation", "corpora", "reviews", "color", "clouds", "text"]
+	},
+	
+	{
+		"id": "Kherwa2014",
+		"title": "Sentimental Data Analysis",
+		"year": 2014,
+		"authors": "Pooja Kherwa et al.",
+		"reference": "Pooja Kherwa, Arjit Sachdeva, Dhruv Mahajan, Nishtha Pande, and Prashast Kumar Singh. <i>An approach towards comprehensive sentimental data analysis and opinion mining</i>. Proceedings of the IEEE International Advance Computing Conference (IACC), pp. 606-612, 2014.",
+		"url": "https://doi.org/10.1109/IAdCC.2014.6779394",
+		"categories": ["polarity-analysis", "opinion-mining", "overview", "comparison", "classification", "corpora", "reviews", "color", "position", "size", "pixel-area", "glyph"]
+	},
+	
+	{
+		"id": "Cuenca2018",
+		"title": "MultiStream",
+		"year": 2018,
+		"authors": "Erick Cuenca et al.",
+		"reference": "Erick Cuenca, Arnaud Sallaberry, Florence Y. Wang, and Pascal Poncelet. <i>MultiStream: A Multiresolution Streamgraph Approach to Explore Hierarchical Time Series</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 12, pp. 3160-3173, 2018.",
+		"url": "https://doi.org/10.1109/TVCG.2018.2796591",
+		"categories": ["emotion-analysis", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "networks", "color", "position", "size", "line-plot", "node-link"]
+	},
+	
+	{
+		"id": "Park2018",
+		"title": "ConceptVector",
+		"year": 2018,
+		"authors": "Deokgun Park et al.",
+		"reference": "Deokgun Park, Seungyeon Kim, Jurim Lee, Jaegul Choo, Nicholas Diakopoulos, and Niklas Elmqvist. <i>ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding</i>. IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 1, pp. 361-370, 2018.",
+		"url": "https://doi.org/10.1109/TVCG.2017.2744478",
+		"categories": ["emotion-analysis", "opinion-mining", "roi", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "color", "position", "size", "pixel-area", "clouds", "text"]
+	},
+	
+	{
+		"id": "Kulahcioglu2019",
+		"title": "Affective Word Clouds",
+		"year": 2019,
+		"authors": "Tugba Kulahcioglu and Gerard de Melo",
+		"reference": "Tugba Kulahcioglu and Gerard de Melo. <i>Paralinguistic Recommendations for Affective Word Clouds</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 132-143, 2019.",
+		"url": "https://doi.org/10.1145/3301275.3302327",
+		"categories": ["polarity-analysis", "emotion-analysis", "overview", "document", "corpora", "color", "shape", "clouds", "text"]
+	},
+	
+	{
+		"id": "Watson2019",
+		"title": "StoryPrint",
+		"year": 2019,
+		"authors": "Katie Watson et al.",
+		"reference": "Katie Watson, Samuel S. Sohn, Sasha Schriber, Markus Gross, Carlos Manuel Muniz, and Mubbasir Kapadia. <i>StoryPrint: An Interactive Visualization of Stories</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 303-311, 2019.",
+		"url": "https://doi.org/10.1145/3301275.3302302",
+		"categories": ["polarity-analysis", "overview", "comparison", "classification", "navigation", "document", "corpora", "time-series", "literature", "editorial-media", "color", "pixel-area"]
+	},
+	
+	{
+		"id": "Karduni2019",
+		"title": "Verifi2",
+		"year": 2019,
+		"authors": "Alireza Karduni et al.",
+		"reference": "Alireza Karduni, Isaac Cho, Ryan Wesslen, Sashank Santhanam, Svitlana Volkova, Dustin L. Arendt, Samira Shaikh, and Wenwen Dou. <i>Vulnerable to Misinformation?: Verifi!</i>. Proceedings of the International Conference on Intelligent User Interfaces (IUI), pp. 312-323, 2019.",
+		"url": "https://doi.org/10.1145/3301275.3302320",
+		"categories": ["polarity-analysis", "emotion-analysis", "overview", "comparison", "classification", "navigation", "corpora", "time-series", "networks", "social-media", "color", "size", "pixel-area"]
+	}
+		
+]
