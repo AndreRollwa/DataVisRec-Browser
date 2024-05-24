@@ -1,5 +1,5 @@
 # DataVisRec-Browser
-Data Visualization Recommendation Browser
+**Data Visualization Recommendation Browser**
 
 # Project Structure
 This text file describes the file structure of the project.
