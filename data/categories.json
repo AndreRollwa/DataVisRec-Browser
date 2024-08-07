@@ -2,14 +2,14 @@
  	{
  		"type": "category",
  		"title": "analytic-tasks",
- 		"description": "Analytic Tasks ---- ",
+ 		"description": "Analytic Tasks xxxxx",
  		"childrenDescription": "Analytic Task: ",
  		
  		"entries": [
  		   {
  			   "type": "category-entry",
  			   "title": "polarity-analysis",
- 			   "description": "Polarity Analysis / Subjectivity Detection",
+ 			   "description": "Polarity Analysis / Subjectivity Detection / xxxxxxxxxxxxxxxxxx",
  			   "content": "<span class=\"glyphicon glyphicon-thumbs-up\"></span>"
  		   },
  		   
