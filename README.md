@@ -1,4 +1,4 @@
-# Teste para início do desenvolvimento --> DataVisRec-Browser
+# Testando o Template --> DataVisRec-Browser
 **Data Visualization Recommendation Browser**
 
 # Project Structure
