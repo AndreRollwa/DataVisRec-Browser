@@ -1,8 +1,8 @@
 [
  	{
  		"type": "category",
- 		"title": "analytic-tasks --- ",
- 		"description": "Analytic Tasks",
+ 		"title": "analytic-tasks",
+ 		"description": "Analytic Tasks ---- ",
  		"childrenDescription": "Analytic Task: ",
  		
  		"entries": [
